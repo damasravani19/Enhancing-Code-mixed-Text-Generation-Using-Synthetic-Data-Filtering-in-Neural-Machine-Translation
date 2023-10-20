@@ -1,0 +1,754 @@
+,Unnamed: 0,CM_candidates,L1,L2
+0,0,103 కంటే ఎక్కువ temperature ఉంది,103 కంటే ఎక్కువ ఉష్ణోగ్రత ఉంది,Have a temperature above 103
+1,1,3 రోజులుగా suddenగా ఇల మొదలైంది,3 రోజులుగా హఠాత్తుగా ఇలా మొదలైంది,This started suddenly for 3 days
+2,2,constipation అయితుంది,మలబద్ధకం అయితుంది,Constipation
+3,3,bathroom కి వెళ్ళినప్పుడు blood వస్తుంది,బాత్రూమ్ కి వెళ్ళినప్పుడు రక్తం వస్తుంది,Blood comes out when going to the bathroom
+4,4,motions లో blood పడుతుంది,మలం లో రక్తం పడుతుంది,Blood in the stool
+5,5,motion గట్టిగా వస్తుంది,విరోచనం గట్టిగా వస్తుంది,Anger is strong
+6,6,loose motions అవుతున్నాయి, విరోచనాలు అవుతున్నాయి,There are contradictions
+7,7,watery motions లాగా ఉన్నాయి, విరోచనాలు లాగా ఉన్నాయి,It's like annihilation
+8,8,తలనొప్పి ఉన్నప్పుడు కళ్ళముందు light కొడుతున్నట్లు గా ఉంది,తలనొప్పి ఉన్నప్పుడు కళ్ళముందు కాంతి కొడుతున్నట్లుగా ఉంది,When there is a headache there is a flash of light before the eyes
+9,9,బాగా irritating గా ఉంది,బాగా చిరాకు గా ఉంది,Very annoying
+10,10,vitamin d deficiency ఉంది అని చెప్పారు,విటమిన్ డి లోపం ఉందని చెప్పారు,Vitamin D deficiency is said
+11,11,ఎంత age?,ఎంత వయస్సు?,how old
+12,12,ఇది kidney కి సంబంధించిన్న నొప్పా?,ఇది కిడ్నీ కి సంబంధించిన నొప్పా?,Is it kidney related pain?
+13,13,గత 4 రోజులుగా high fever and తలనొప్పితో బాధపడుతుంది,గత 4 రోజులుగా తీవ్ర జ్వరం మరియు తలనొప్పితో బాధపడుతుంది,Suffering from high fever and headache for last 4 days
+14,14,daily dolo 500 వేస్తున్నాం,రోజువారీ డోలో 500 వేస్తున్నాం,500 in daily dolo
+15,15,బరువు తగ్గడానికి diet చేస్తున్నాను,బరువు తగ్గడానికి డైట్ చేస్తున్నాను,I am on a diet to lose weight
+16,16,motionకి వెళ్ళినప్పుడు బాగా pain ఉంది అని చెప్తుంది,విరోచనంకి వెళ్ళినప్పుడు బాగా నొప్పిగా ఉంది అని చెప్తుంది,She says that it hurts a lot when she goes to have an anus
+17,17,అయినా motion free గా అవ్వడం లేదు,అయినా విరోచనం సాఫీ గా అవ్వడం లేదు,"However, the transition is not smooth"
+18,18,గతం 3 నెలల నుంచి dehydration తో బాధపడుతున్నాను,గతం 3 నెలల నుంచి డీహైడ్రేషన్‌తో బాధపడుతున్నాను,I am suffering from dehydration since last 3 months
+19,19,నాకు periods regularగా రావడం లేదు,నాకు పీరియడ్స్ రెగ్యులర్ గా రావడం లేదు,I am not getting periods regularly
+20,20,నాకు hyperthyroid problem ఉంది,నాకు హైపర్ థైరాయిడ్ సమస్య ఉంది,I have hyperthyroid problem
+21,21,ఇదేమన్నా vitamin deficiency నా,ఇదేమన్నా విటమిన్ లోపం నా,Is this my vitamin deficiency?
+22,22,నేను software employee గతం 2 3 ఏళ్లుగా చేతులు తిమ్మిర్లు పట్టడం కాలు పిక్కలు పట్టడం లాంటివి జరుగుతున్నాయి,నేను సాఫ్ట్‌వేర్ ఉద్యోగి గతం 2 3 ఏళ్లుగా చేతులు తిమ్మిర్లు పట్టడం కాలు పిక్కలు పట్టడం లాంటివి జరుగుతున్నాయి,I am a software employee and have been experiencing hand cramps and leg cramps for the past 2-3 years.
+23,23,అన్ని testలు చేయించాము,అన్ని పరీక్షలు చేయించుకున్నాము,We have done all the tests
+24,24,diabetes ఉంది అని నిర్ధారణ అయింది.,మధుమేహం అని నిర్ధారణ అయింది.,Diabetes was diagnosed.
+25,25,platelets త్వరగా తగ్గిపోతున్నాయి,ప్లేట్‌లెట్స్ త్వరగా తగ్గిపోతున్నాయి,Platelets are rapidly decreasing
+26,26,smoking habbit ఉంది,ధూమపానం అలవాటు ఉంది,Has smoking habit
+27,27,occassional గా smoking చేస్తుంటాను,అప్పుడప్పుడు  ధూమపానం చేస్తుంటాను,I smoke occasionally
+28,28,sugar ఉన్నప్పుడు chapati తినవచ్చా?,చక్కెర ఉన్నప్పుడు చపాతీ తినవచ్చా?,Can you eat chapati with sugar?
+29,29,rice తినడం వల్ల sugar ఉన్నవారిలో ఎటువంటి సమస్య వస్తుంది?,అన్నం తినడం వల్ల షుగర్ ఉన్నవారిలో ఎటువంటి సమస్య వస్తుంది?,What problem does eating rice cause in diabetics?
+30,30,అలాగే weight పెరగడం కోసం homeopathy medicine వాడుతున్నాను.,అలాగే బరువు పెరగడం కోసం హోమియోపతి మెడిసిన్ వాడుతున్నాను.,Also I am using homeopathic medicine for weight gain.
+31,31,నాకు primary infertility సమస్య ఉంది.,నాకు ప్రాధమిక వంధ్యత్వ సమస్య ఉంది.,I have primary infertility problem.
+32,32,ఈమధ్య tensionగా ఉంటుంది.,ఈమధ్య టెన్షన్‌గా ఉంటుంది.,It will be tense now.
+33,33,చిన్నప్పుడు polio వచ్చింది.,చిన్నప్పుడు పోలియో వచ్చింది.,I got polio as a child.
+34,34,ఈ polioను surgery ద్వార సరిచేసుకోవచ్చా?,ఈ పోలియో శస్త్రచికిత్స ద్వార సరిచేసుకోవచ్చా?,Can this polio be cured by surgery?
+35,35,"high fever, బాగా తలనొప్పి, వెన్నునొప్పి, తర్వాత body pains బాగా ఉంటే, జ్వరం వచ్చిన 3 4 days తర్వాత rashes వస్తున్నాయి.","అధిక జ్వరం, బాగా తలనొప్పి, వెన్నునొప్పి, తర్వాత శరీర నొప్పులు బాగా ఉంటే, జ్వరం వచ్చిన 3 4 రోజుల తర్వాత దద్దుర్లు వస్తున్నాయి.","If there is high fever, severe headache, backache, then body aches, the rash comes 3-4 days after the onset of fever."
+36,36,నా భార్య చాలా weakగా ఉంటుంది.,నా భార్య చాలా బలహీనంగా ఉంటుంది.,My wife is very weak.
+37,37,1 year నుంచి body swelling ఉంది.,1 సంవత్సరం నుంచి శరీరం వాపు ఉంది.,The body is swollen since 1 year.
+38,38,abnormal గా weight increase అయితుంది.,అసాధారణంగా గా బరువు పెరుగుట అయితుంది.,Abnormal weight gain.
+39,39,hairfall ఎక్కువగా ఉంది.,జుట్టు రాలడం ఎక్కువగా ఉంది.,Hair loss is high.
+40,40,Dr ని కలిస్తే protein deficiency అన్నారు.,డాక్టర్ ని కలిస్తే ప్రొటీన్ లోపం అన్నారు.,"If you meet the doctor, they say protein deficiency."
+41,41,Dr test చేసి synosis ఉంది అని చెప్పారు.,Dr పరీక్ష చేసి సైనోసిస్ అని చెప్పారు.,Dr did an exam and said it was cyanosis.
+42,42,ఒక్కోసారి నెల మొత్తం bleeding అవుతూనే ఉంది.,ఒక్కోసారి నెల మొత్తం రక్తస్రావం అవుతూనే ఉంది.,Sometimes the bleeding continues for a whole month.
+43,43,ప్రస్తుతం నా diabetes అదుపులో ఉంది.,ప్రస్తుతం నా డయాబెటిస్ అదుపులో ఉంది.,Currently my diabetes is under control.
+44,44,గతం 15 years నుంచి diabetes ఉంది.,గతం 15 సంవత్సరాల నుంచి మధుమేహం ఉంది.,I have diabetes since last 15 years.
+45,45,నాకు ఈమధ్య dengue జ్వరం వచ్చి hospital admit అయ్యాను.,నాకు ఈమధ్య  డెంగ్యూ జ్వరం వచ్చి ఆసుపత్రిలో చేరాను.,I recently got dengue fever and was admitted to the hospital.
+46,46,vegan food తీసుకోవడం ద్వార కీళ్ల నొప్పులను దూరం పెట్టొచ్చు అని అంటున్నారు,శాకాహారి ఆహారం తీసుకోవడం ద్వార కీళ్ల నొప్పులను దూరం పెట్టొచ్చు అని అంటున్నారు,It is said that joint pain can be removed by eating vegetarian food
+47,47,నా body తొందరగా dehydrate అవుతుంది.,నా శరీరం తొందరగా డీహైడ్రేట్ అవుతుంది.,My body dehydrates quickly.
+48,48,2 to 3 hours తర్వాత sweating వస్తుంది.,2 నుండి 3 గంటల తర్వాత చెమట వస్తుంది.,Sweat comes after 2 to 3 hours.
+49,49,severe back pain ఉంది.,తీవ్రమైన వెన్నునొప్పి ఉంది.,Have severe back pain.
+50,50,కన్ను వెనక చుట్టూ బాగా pain ఉంది.,కన్ను వెనక చుట్టూ బాగా నొప్పి ఉంది.,There is severe pain around the back of the eye.
+51,51,red rashes వస్తున్నాయి.,ఎరుపు దద్దుర్లు వస్తున్నాయి.,A red rash appears.
+52,52,3 months course వాడాను తగ్గింది.,3 నెలల కోర్సు వాడాను తగ్గింది.,A 3 month course reduced the use.
+53,53,ఆ తరువాత మళ్లీ blood test చేయించాను.,ఆ తరువాత మళ్లీ రక్త పరీక్ష చేయించుకున్నాను.,After that I did another blood test.
+54,54,diabetes ఉందని నిర్ధారణ అయింది.,మధుమేహ వ్యాధి నిర్ధారణ అయింది.,Diabetes was diagnosed.
+55,55,basic గా నేను boxerను.,ప్రాథమికంగా నేను బాక్సర్‌ని.,Basically I am a boxer.
+56,56,boxing continue చేయొచ్చా?,నేను బాక్సింగ్‌ను కొనసాగించవచ్చా?,Can I continue boxing?
+57,57,మళ్లీ ఇప్పుడు chicken pox symptoms కనిపిస్తున్నాయి.,మళ్లీ ఇప్పుడు చికెన్ పాక్స్ లక్షణాలు కనిపిస్తున్నాయి.,Again now the symptoms of chicken pox are appearing.
+58,58,life లో ఒక్కసారే chickenpox వస్తుంది అంటారు కదా.,జీవితం లో ఒక్కసారే అమ్మోరు వస్తుంది కదా.,Love comes once in a lifetime.
+59,59,మళ్లీ chickenpox symptoms ఎందుకు కనిపిస్తున్నాయి?,మళ్లీ అమ్మోరు లక్షణాలు ఎందుకు కనిపిస్తున్నాయి?,Why ammorrha symptoms appear again?
+60,60,నాకు malaria వచ్చి తగ్గి 3 months అయితుంది.,నాకు మలేరియా వచ్చి 3 నెలలు అయితుంది.,It's been 3 months since I got malaria.
+61,61,chikungunya వచ్చి తగ్గిన తరువాత joint pains అని బాధపడుతున్నాడు.,చికున్‌గున్యా వచ్చి తగ్గిన తరువాత కీళ్ల నొప్పులు అని బాధపడుతున్నాడు.,After chikungunya came and subsided he was suffering from joint pains.
+62,62,నాకు malaira వచ్చి తగ్గి 2 months అయింది.,నాకు మలేరియా వచ్చి 2 నెలల అయింది.,It's been 2 months since I got malaria.
+63,63,మళ్లీ ఈమధ్య malaria symptoms కనిపిస్తున్నాయి.,మళ్లీ ఈమధ్య మలేరియా లక్షణాలు కనిపిస్తున్నాయి.,Malaria symptoms are appearing again recently.
+64,64,recent గా dengue fever వచ్చింది.,ఇటీవలి గా డెంగ్యూ జ్వరం వచ్చింది.,Dengue fever recently.
+65,65,వాళ్లు పర్వాలేదు medicines తో continue చేయొచ్చు అన్నారు.,వాళ్లు పర్వాలేదు మందుల తో కొనసాగించవచ్చు  అన్నారు.,"They said no problem, they can continue with the medicine."
+66,66,ఈ పరిస్థితులలో platelets ఇవ్వాల్సి వస్తుంది.,ఈ పరిస్థితులలో ప్లేట్‌లెట్స్ ఇవ్వాల్సి వస్తుంది.,"In these situations, platelets have to be given."
+67,67,platelets ఇవ్వకుండా medicines తో తగ్గుతుందా?,ప్లేట్‌లెట్స్ ఇవ్వకుండా మందులు తో తగ్గుతుందా?,Can platelets decrease with medication without giving them?
+68,68,వారం నుంచి fever తగ్గడం లేదు.,వారం నుంచి జ్వరం తగ్గడం లేదు.,The fever has not decreased since a week.
+69,69,గతం 15 years నుంచి diabetes ఉంది.,గతం 15 సంవత్సరాల నుంచి మధుమేహం ఉంది.,I have diabetes since last 15 years.
+70,70,గతం 15 years నుంచి మధుమేహం తో బాధపడుతున్నారు.,గతం 15 ఏళ్ల నుంచి మధుమేహంతో బాధపడుతున్నారు.,He has been suffering from diabetes since last 15 years.
+71,71,allergy వల్ల అని diagnose చేశారు.,అలెర్జీ వల్ల అని నిర్ధారణ చేశారు.,Diagnosed as allergy.
+72,72,improvement ఏమి లేదు.,మెరుగుదల ఏమి లేదు.,There is no improvement.
+73,73,నాకు గతం 5 years నుంచి diabetes ఉంది.,నాకు గతం 5 సంవత్సరాల నుంచి మధుమేహం ఉంది.,I have diabetes since last 5 years.
+74,74,body dehydration అయినప్పుడు ors తాగొచ్చా?,శరీరం డీహైడ్రేషన్ అయినప్పుడు ors తాగొచ్చా?,Can you drink ors when the body is dehydrated?
+75,75,తరచూ toilet కి వెళుతుంటే test చేయించాము.,తరచుగా టాయిలెట్ కి వెళుతుంటే పరీక్ష చేయించుకున్నాము.,"If you are going to the toilet often, we have done the test."
+76,76,diabetes నియంత్రణలో vegan food పాత్ర ఎంత?,మధుమేహంలో శాకాహారి ఆహారం పాత్ర నియంత్రణ ఎంత?,What is the controlling role of vegetarian diet in diabetes?
+77,77,నాకు periods కూడా regularగా ఉన్నాయి.,నాకు పీరియడ్స్ కూడా రెగ్యులర్ గా ఉన్నాయి.,I have regular periods too.
+78,78,second child కోసం try చేస్తున్నాం.,రెండవ బిడ్డ కోసం ప్రయత్నించండి.,Try for a second child.
+79,79,ప్రతి 3 months కి ఒకసారి sugar test చేయించుకుంటున్నాను .,ప్రతి 3 నెలలకి ఒకసారి షుగర్ టెస్ట్ చేయించుకుంటున్నాను .,I am taking sugar test every 3 months.
+80,80,పుట్టబోయే babyకి sugar వస్తుందా?,పుట్టబోయే బేబీకి షుగర్ వస్తుందా?,Can the unborn baby get sugar?
+81,81,చాలా high fever ఉంది.,చాలా అధిక జ్వరం ఉంది.,There is a very high fever.
+82,82,madam మా brotherకి 1 year back cancer వచ్చింది అండి,మేడమ్ మా అన్నకి 1 సంవత్సరం క్రితం క్యాన్సర్ వచ్చింది,"Madam, my elder brother got cancer 1 year ago"
+83,83,తనకు operation చేశారు,తనకు ఆపరేషన్ చేశారు,He was operated on
+84,84,so తనకు ఏమైనా possibility ఉందా అండి teeth పెట్టడానికి,so తనకు ఏమైనా అవకాశం ఉందా అని పళ్ళు పెట్టడానికి,So to see if he has any chance
+85,85,తను ముందర hair అంతా loss అయిపోయింది.,తను ముందర జుట్టు అంతా అయిపోయింది.,All his front hair is gone.
+86,86,దాని solution చెప్తారా కొంచం,దాని పరిష్కారం చెప్తారా కొంచం,Can you tell me the solution?
+87,87,"hair fall ఉందా? అండి, లేదా hair loss అయిపోయిందా?","జుట్టు రాలడం ఉందా? అండి, లేదా జుట్టు ఊడిపోయిందా?","Have hair loss? That, or blown hair?"
+88,88,కొంచం diet చేయడం వల్ల plus కొంచం చుండ్రు కూడా ఉంది అండి,కొంచం డైట్ చేయడం వల్ల కుడా కొంచం చుండ్రు కూడా ఉంది అండి,I also have a bit of dandruff due to dieting
+89,89,ప్పుడు దాని solution ఏంటి అండి?,అప్పుడు దాని పరిష్కారం ఏంటి అండి?,Then what is the solution?
+90,90,blood test ఏమైనా చేయించారా అండి?,రక్త పరీక్ష ఏమైనా చేయించారా?,Have you done any blood test?
+91,91,"so first మనము తనకి serum Feritin levels ఎలా ఉన్నాయి, vitamin D ఎలా ఉంది, అలాగే thyroid problem ఏమైనా ఉందా?","sకాబట్టి ముందుగా మనం అతని సీరం ఫెర్రిటిన్ స్థాయిలు ఎలా ఉన్నాయి, అతని విటమిన్ డి ఎలా ఉంది మరియు ఏదైనా థైరాయిడ్ సమస్య ఏమైనా ఉందా?","So first we ask how his serum ferritin levels are, how his vitamin D is, and is there any thyroid problem?"
+92,92,PCOD ఏమైనా ఉందా?,PCOD ఏమైనా ఉందా?,Is there any PCOD?
+93,93,first అవి rule out చేసుకోవాలండి.,మొదటి అవి రూల్ అవుట్ చేసుకోవాలండి.,First they should be ruled out.
+94,94,sir నా పేరు tulasi అండి.,సార్ నా పేరు తులసి అండి.,Sir my name is Tulsi Andi.
+95,95,"ఆ నేను, Inter 1st year చదువుతున్నా","ఆ నేను, ఇంటర్ మొదటి సంవత్సరం చదువుతున్నాను",I am studying first year of inter
+96,96,ఆ నేను skin-tan అనే ఒక cream రాసాను,ఆ నేను చర్మం-టాన్అ నే ఒక క్రీమ్ రాసాను,I applied a skin-tanning cream
+97,97,"అది రాసాను, కొద్ది రోజులుగా pure whiteగా వచ్చాను","అది రాసాను, కొద్ది రోజులుగా స్వచ్చమైన తెలుపుగా వచ్చాను","Wrote it, came clean white in few days"
+98,98,"కొన్ని days, నాకు అప్పుడు pure black అంటే black అయిపోయినా","కొన్ని రోజులు, నాకు అప్పుడు స్వచ్ఛమైన నలుపు అంటే నలుపు అయిపోయినా","Some days, pure black means black to me"
+99,99,అది పూర్తిగా మానేసా skin పోతుందని,అది పూర్తిగా మానేసా చర్మం పోతుందని,It completely removes the skin
+100,100,"మనకు skin ఒక్కొకరికి ఒక్కో రకంగా ఉంటది అమ్మా, dry skin అంటూ ఉంటది, wet skin ఉంటది, mixed skin ఉంటది, చాలా రకాల skin ఉంటది","మన చర్మం ఒక్కొకరికి ఒక్కో రకంగా ఉంటుంది అమ్మ, పొడి చర్మం అంటూ ఉంటుంది, తడి చర్మం ఉంటుంది, మిక్స్డ్ స్కిన్ ఉంటుంది, చాలా రకాల చర్మం ఉంటుంది","We all have different skin types mom, dry skin, wet skin, mixed skin, many skin types."
+101,101,"మనకు ఏదైనా సమస్య కోసం ఏదైనా ointment గానీ ఏదైనా lotion గానీ ఏదైనా gel గానీ వాడినప్పుడు, ప్రతీ skinకి అన్నీ lotions, అన్నీ gels పడవమ్మా.","ఏదైనా ఏదైనా సమస్య కోసం ఏదైనా లేపనం లేదా ఏదైనా ఔషదం లేదా ఏదైనా మనకు జెల్ లేదా వాడినప్పుడు, ప్రతీ చర్మం కి అన్నీ లోషన్లు, అన్నీ జెల్లు పడవమ్మా.","When we use any ointment or any medicine or any gel or anything for any problem, let's put all the lotions and all the gels on every skin."
+102,102,స్పర్శ తెలియడం లేదు sir.,స్పర్శ తెలియడం లేదు సార్.,I don't know touch sir.
+103,103,"sir నాకు hair problem ఉంది sir, dandruff అధికంగా ఉంది","సార్ నాకు జుట్టు సమస్య ఉంది సార్, చుండ్రు ఎక్కువగా ఉంది","Sir I have hair problem sir, dandruff is high"
+104,104,"ఆ sir, nearest salonలో చూపిస్తే doctorగారు ఏం చెప్పారంటే తగ్గిపోతుంది అని చెప్పేసి KZ lotion ఇచ్చారు sir.","ఆ సార్, దగ్గరలోని సెలూన్లో చూపిస్తే వైద్యుడు గారు ఏం చెప్పారంటే తగ్గిపోతుంది అని చెప్పేసి KZ లోషన్ ఇచ్చారు సార్.","Sir, if you show it to the nearest salon, it will reduce according to what the doctor said and gave KZ lotion, sir."
+105,105,"అది use చేసిన ఒక 3 days బాగుంటుంది, 4th day నుంచి మళ్ళి start అవుతుంది sir.","అది వాడితే ఒక 3 రోజులు బాగుంటుంది, 4వ రోజు నుంచి మళ్ళి స్టార్ట్ అవుతుంది సార్.","If you use it, it will be good for 3 days, it will start again from the 4th day sir."
+106,106,దాని ఏం solution ఉంటుంది?,దాని ఏం పరిష్కారం ఉంటుంది?,What is its solution?
+107,107,ఏం పని చేస్తా ఉంటారు sir మీరు?,ఏం పని చేస్తా ఉంటారు సార్ మీరు?,What do you do sir?
+108,108,sir sir నేను employee sir.,సార్ సార్ నేను ఉద్యోగి సార్.,"Sir, I am an employee."
+109,109,dandruff అనేది చాలా కారణాలుగా వస్తాది అండి.,చుండ్రు అనేది చాలా కారణాలుగా వస్తాయి అండి.,Dandruff has many causes.
+110,110,"madam hair, skin మీద hair రావట్లేదు, అంటే నాకు hair lightగా రాలిపోతా ఉంది.","మేడమ్ జుట్టు, చర్మం మీద జుట్టు రావట్లేదు, అంటే నాకు జుట్టు కొంచెం గా రాలిపోతా ఉంది","Madam's hair, no hair on the skin, which means that my hair is falling out a little"
+111,111,hair damage ఉంది lightగా,జుట్టు నష్టం ఉంది తేలికగా,Hair loss is mild
+112,112,ఎంత age sir మీది?,ఎంత వయస్సు సార్ మీది?,how old are you sir
+113,113,"ఉన్నది ఊడిపోతుంది madam, hair damage ఉంది.","ఉన్నది ఊడిపోతుంది మేడమ్, జుట్టు నష్టం ఉంది.","The one is blowing madam, there is hair loss."
+114,114,మీ parentsలో ఎవరికైనా తొందరగా జుట్టుపోయిన history ఉందా అండి?,మీ తల్లిదండ్రులలో ఎవరికైనా తొందరగా జుట్టుపోయిన చరిత్ర ఉందా?,Did either of your parents have a history of premature hair loss?
+115,115,లేదు madam ఎవరికి లేదు madam,లేదు మేడమ్ ఎవరికి లేదు మేడమ్,No ma'am no one has no ma'am
+116,116,see 23 yearsకి hair fall అయిపోతుంది,చూడండి 23 సంవత్సరాలకి జుట్టు రాలుతుంది,See hair fall at 23 years
+117,117,"చాలా వరకు nutritional deficiency గానీ లేక hormonal imbalance గానీ, stress గానీ, లేక తలస్నానం సరిగ్గా maintenance problem గానీ, dandruff problem గానీ vitamin deficiency గానీ, రాక రకాల deficiency ఉంటది.","చాలా వరకు పోషకాహార లోపం లేదా లేక హార్మోన్ల అసమతుల్యత లేదా, ఒత్తిడి లేదా, లేక తలస్నానం సరిగ్గా నిర్వహణ సమస్య లేదా, చుండ్రు సమస్య లేదా విటమిన్ లోపం లేదా, రాక రకాల లోపం ఉంటుంది.","Most of them are due to nutritional deficiency or hormonal imbalance, stress or improper bathing, dandruff problem or vitamin deficiency or lack of hair types."
+118,118,so దాన్ని identify చేసి ఆ చిన్న problemని మనం solve చేసుకుంటే మంచిది.,కాబట్టి దాన్ని గుర్తించి ఆ చిన్న సమస్యని మనం పరిష్కరించుకుంటే మంచిది.,So it's better if we figure it out and solve that little problem.
+119,119,మీకు ఎన్ని సంవత్సరాల నుంచి hair fall ఉంది sir మీకు?,మీకు ఎన్ని సంవత్సరాల నుంచి జుట్టు  రాలుతుంది సార్ మీకు?,How old are you losing your hair sir?
+120,120,కలిస్తే tablets అవన్నీ ఇచ్చారు.,కలిస్తే మాత్రలు అవన్నీ ఇచ్చారు.,All the pills were given.
+121,121,"so tablet ఇచ్చి supplements ఇచ్చినా కూడా మీకు hair fall, జుట్టు రాలిపొవడం అనేది తగ్గడం లేదు అంటే జుట్టులోని ఏదో లోపం ఉంది అని అర్ధం.","కాబట్టి మాత్ర ఇచ్చి సప్లిమెంట్స్ ఇచ్చినా కూడా మీకు జుట్టు రాలడం, జుట్టు రాలిపోవడం అనేది తగ్గడం లేదు అంటే జుట్టులోని ఏదో లోపం ఉంది అని అర్ధం.","So even after giving pills and giving supplements you have hair loss, hair loss is not reducing which means there is something wrong with the hair."
+122,122,అంటే growth factors అనేవి లోపించాయి అని అర్ధం.,పెరుగుదల కారకాలు అనేవి లోపించాయి అని అర్ధం.,Growth factors are deficient.
+123,123,దాని prp treatment అని చేస్తారు,దాని prp చికిత్స అని చేస్తారు,Its called prp treatment
+124,124,so మన సొంత రక్తంలో నుంచి plasma తీసి అక్కడ growth factorని లోపల induce చేస్తారు.,కాబట్టి మన సొంత రక్తంలో నుంచి ప్లాస్మా తీసి అక్కడ వృద్ధి కారకాన్ని లోపల ప్రేరేపిస్తారు,So they take plasma from our own blood and infuse the growth factor inside
+125,125,fever వల్ల 1 week నుండెల్లి స్నానం చేయించలేదు,జ్వరం వల్ల 1 వారం నుండెల్లి స్నానం చేయించలేదు,"Due to fever, Delli has not bathed for 1 week"
+126,126,"తర్వాత head పైన, hairs పైన మొత్తం పొట్టులాగా లేస్తుంటే, ఆ పొట్టుతో పాటు hairs ఊడిపోతున్నాయండీ.","తర్వాత తల పైన, వెంట్రుకలు పైన మొత్తం పొట్టులాగా లేస్తుంటే, ఆ పొట్టుతో పాటు వెంట్రుకలు ఊడిపోతున్నాయండీ.","Then on the top of the head, if the hairs are all like flakes, then the hairs are falling out along with the flakes."
+127,127,"sir చిన్న పాప కదా, తనకి birth defect అయినా ఉండొచ్చు.","సార్ చిన్న పాప కదా, తనకి పుట్టిన లోపం అయినా ఉండొచ్చు.","Sir, he is a small baby, he may have a birth defect."
+128,128,ఒకసారి pediatrician ని చూపించండి మీరు.,ఒకసారి శిశువైద్యుడు ని చూపించండి మీరు.,Show the pediatrician once.
+129,129,ఎందుకంటే 50 days పాప only నెలన్నర కదా,ఎందుకంటే 50 రోజుల పాప మాత్రమే నెలన్నర కదా,Because a 50-day-old baby is only half a month
+130,130,"ఎవరికి లేదు, genetically బట్టతల అనేది లేదు","ఎవరికి లేదు, జన్యుపరంగా బట్టతల అనేది లేదు",No one is genetically bald
+131,131,"దీన్ని androgenal teloframe అంటాము, generalగా అంటే, వంశపారంపర్యంగా వచ్చే hair loss.","దీన్ని ఆండ్రోజెనల్ టెలోఫ్రేమ్ అంటాము, సాధారణంగా అంటే, వంశపారంపర్యంగా వచ్చే జుట్టు ఊడుట.","This is called the androgenic teloframe, which usually means hereditary hair loss."
+132,132,"so sir మీకు 34 yearsకే మీకు జుట్టు రాలిపోతుందంటే, main reason మీకు lifestyle problems ఉండొచ్చు, hormonal problems కావొచ్చు, stress కావొచ్చు, nutritional deficiency కావొచ్చు.","కాబట్టి సార్ మీకు 34 సంవత్సరాలకే మీకు జుట్టు రాలిపోతుందంటే, ప్రధాన కారణం మీకు జీవనశైలి సమస్యలు ఉండొచ్చు, హార్మోన్ల సమస్యలు కావొచ్చు, ఒత్తిడి కావొచ్చు, పోషకాహార లోపం కావొచ్చు.","So sir if you are losing your hair at the age of 34, the main reason may be lifestyle problems, hormonal problems, stress, nutritional deficiency."
+133,133,white hair అయిపోతుంది,తెల్ల జుట్టు అయిపోతుంది,Gone is the white hair
+134,134,"grey hair, premature greying అనేది 2 reasons వలన వస్తాది ఎవరికి కూడా","నెరిసిన వెంట్రుకలు, అకాల గ్రేయింగ్ అనేది 2 కారణాల వలన వస్తాది ఎవరికి కూడా",Gray hairs and premature graying can happen to anyone due to 2 reasons
+135,135,ఒక్కటి genetically రావాలి. మన ఇంట్లో ఎవరికైనా ఉంటే రెండోది nutritional deficiency,ఒక్కటి వంశపార్యపరంగా రావాలి. మన ఇంట్లో ఎవరికైనా ఉంటే రెండోది పోషకాహార లోపం,One has to come through genealogy. The second is malnutrition if anyone in our house has it
+136,136,marriage అయిందా?,వివాహం అయిందా?,Married?
+137,137,ముందు ఏమైనా treatments ఏమైనా చేయించుకున్నారా అండి hair fallకి?,ముందు ఏమైనా చికిత్సలు చేయించుకున్నారా అండి జుట్టు రాలడం?,Have you had any treatments for hair loss before?
+138,138,మీరు మందులు continueగా ఎన్ని రోజులు వాడారు అమ్మా?,మీరు మందులు వరుసగా ఎన్ని రోజులు వాడాలి అమ్మ?,How many days should you use the medicine in a row mom?
+139,139,"correctగా ఒక 5 days వాడుతున్నాను, కంటికి కనిపించట్లేదు.","సరిగ్గా ఒక 5 రోజులు వాడుతున్నాను, కంటికి కనిపించట్లేదు.",I have been using it for exactly 5 days and I can't see it.
+140,140,minimum skinకి 2 to 4 weeks continueగా వాడాలి,కనిష్ట చర్మానికి 2 నుండి 4 వారాలు కొనసాగాలి,Minimum skin should last 2 to 4 weeks
+141,141,only creams ఏ వాడుతున్నారా? tablets కూడా వాడుతున్నారా?,క్రీములు మాత్రమే ఏ వాడుతున్నారా? మాత్రలు కూడా వాడుతున్నారా?,Are you using creams only? Also using pills?
+142,142,ఆ tablets వచ్చేసి 3 days కి ఇచ్చారు,ఆ మాత్రలు వచ్చేసి 3 రోజులు కి ఇచ్చారు,The tablets came and were given for 3 days
+143,143,"మీరు ఎక్కడ, dermatologistనే కలిసారా?","మీరు ఎక్కడ, చర్మవ్యాధి నిపుణుడిని కలిసారా?",Where did you meet the dermatologist?
+144,144,"ఆ కలిసాము, ఆయన కూడా ఇదే అన్నారు, aayana emannarante మందు continueగా వాడితేనే పోతుంది అండి అని.","ఆ కలిసాము, ఆయన కూడా ఇదే అన్నారు, ఆయన ఏమన్నారంటే మందు వరుసగా వాడితేనే పోతుంది అండి అని.","When we met, he also said the same thing, what he said is that if the medicine is used consecutively, the pain will go away."
+145,145,"లేదు, లేదమ్మా తప్పనిసరిగా minimum 2 నుంచి 4 వారలు tabletsలతో సహా creams వాడు వాడుకుంటేనే తగ్గుతుంది.","లేదు, లేదమ్మా తప్పనిసరిగా కనీసం 2 నుంచి 4 వారాలు మాత్రలతో సహా క్రీమ్‌లు వాడుకుంటేనే తగ్గుతుంది.","No, Ledamma must reduce by using creams along with pills for at least 2 to 4 weeks."
+146,146,బాబు soap towel anni separateగా ఉంచుకోండి,బాబు సోప్ టవల్ అన్నీ విడిగా ఉంచుకోండి,Keep all Babu soap towel separately
+147,147,separateగా wash చేసుకోండి.,వేరుగా కడగండి.,Wash separately.
+148,148,"దానికి clean చేసుకొని, candid powder వాడితే తగ్గుతుంది.","దానికి శుభ్రంగ చేసుకొని, దాపరికం పొడి వాడితే తగ్గుతుంది.","If you clean it and use frankincense powder, it will decrease."
+149,149,ring worm మాదిరి ఏమైనా ring lesions ఉన్నాయా ఇట్ల?,రింగ్ వార్మ్ మాదిరి ఏమైనా రింగ్ గాయాలుఉన్నాయా ఇట్ల?,Are there any ring lesions such as ringworm?
+150,150,"అవన్నీ ఏం లేవు sir, water మాదిరి వస్తది.","అవన్నీ ఏం లేవు సార్, నీళ్ల మాదిరి వస్తది.","All that is not there sir, water sample will come."
+151,151,"అది clean చేయకపోతే, ఒక 1 day తర్వాత, నములుకుంటుంది.","అది శుభ్రం చేయకపోతే, ఒక 1 రోజు తర్వాత, నములుతుంది.","If it is not cleaned, after 1 day, it will be chewed."
+152,152,candid powder వాడరా? candid D అలాంటి creams ఏమైనా వాడరా?,దాపరికం పొడి వాడరా? కాండీడ్ D అలాంటి క్రీములు ఏమైనా వాడరా?,Do you use cinnamon powder? Does Candid D use any creams like that?
+153,153,మీకు thyroid అలాంటివి ఏమైనా problems ఉన్నాయా?,మీకు థైరాయిడ్ అలాంటివి ఏమైనా సమస్యలు ఉన్నాయా?,Do you have any problems like thyroid?
+154,154,కొందరికి secretions ఎక్కువ వస్తూ ఉంటాయి.,కొందరికి స్రావాలు ఎక్కువగా వస్తూ ఉంటాయి.,Some have heavy discharge.
+155,155,అది frictionను కొద్దిగా తగ్గించటానికి అట్ల very rareగా అట్ల తేమ వచ్చినప్పుడు flexural psoriasis అంటాము దాన్ని.,అది రాపిడిను కొద్దిగా తగ్గించటానికి అట్ల చాలా అరుదుగా అట్ల తేమ వచ్చినప్పుడు ఫ్లెక్సురల్ సోరియాసిస్ అంటాము దాన్ని.,It is called Flexural Psoriasis when there is very little moisture to reduce the friction.
+156,156,ఇది మన hip back side ఉంటది కదా కుర్చొనే దెగ్గర,ఇది మన హిప్ బ్యాక్ సైడ్ ఉంటది కదా కూర్చోనే దెగ్గర,It is on the back side of our hip where we sit
+157,157,అయితే అక్కడ నేను అప్పుడు దెగ్గరలో doctorను చూపిస్తే fungal infection అని చెప్పి చిన్న ointment ఇచ్చినారు,అయితే అక్కడ నేను అప్పుడు దెగ్గరలో డాక్టర్ను చూపిస్తే ఫంగల్ ఇన్ఫెక్షన్ అని చెప్పి చిన్న ఆయింట్మెంట్ ఇచ్చారు,"However, if I went to see a doctor there, they said it was a fungal infection and gave me a small ointment"
+158,158,"అయితే అది july ఉంటదా sir, ointment?","అయితే అది జూలై ఉంటాదా సార్, లేపనం?","But will it be July, sir, ointment?"
+159,159,"ప్పుడు external ointments అనే 99 percent avoid చేయండి, అదేం use ఉండదు.","ప్పుడు బాహ్య లేపనాలు అంటే 99 శాతం నివారించండి, అదేం ఉపయోగం ఉండదు.","Avoid 99% of external ointments, they are useless."
+160,160,"externalగా మీరు చేయాల్సింది ఏంటి అంటే, neatness, hygenic condition, dryness ఇది maintain చేయాలి","బాహ్యంగా మీరు చేయవలసింది ఏంటి అంటే, చక్కదనం, పరిశుభ్రమైన పరిస్థితి, పొడిబారడం ఇది నిర్వహించాలి","Externally what you need to do is maintain neatness, clean condition, dryness"
+161,161,sir నా age 69 years sir నాది,సర్ నా వయసు 69 సంవత్సరాలు సార్ నాది,Sir I am 69 years old sir
+162,162,ఇది regularగా నాకు ఒక బొటన వేలు 3 4 years నుంచి,ఇది రెగ్యులర్గా నాకు ఒక బొటన వేలు 3 4 సంవత్సరాల నుండి,It's a thumb for me regularly since 3 4 years
+163,163,మన గోరంతా damage అయిపోతుంది sir నాది.,మన గోరంతా నష్టం అయిపోతుంది సార్ నాది.,"All of our nails will be lost, sir."
+164,164,ఎన్ని చేసిన కూడా ఎన్ని antibiotic వాడినా తగ్గడం లేదు,ఎన్ని చేసిన కూడా ఎన్ని యాంటీబయాటిక్ వాడినా తగ్గడం లేదు,"No matter how many antibiotics are used, it does not reduce"
+165,165,antibioticsకి దీనికి relation లేదు.,యాంటీబయాటిక్స్కి దీనికి సంబంధం లేదు.,It has nothing to do with antibiotics.
+166,166,ఎందుకంటే ఇది bacterial infections కావు,ఎందుకంటే ఇది బాక్టీరియల్ ఇన్ఫెక్షన్లు కావు,Because these are not bacterial infections
+167,167,ఈ fungal అనేది antibiotics వల్లనే వస్తుంది కొంత మందిలో and దానివల్ల పెరుగుతుంది.,ఈ ఫంగల్ అనేది యాంటీబయాటిక్స్ వల్లనే వస్తుంది కొంత మందిలో మరియు దానివల్ల పెరుగుతుంది.,This fungus is caused by antibiotics in some people and grows because of it.
+168,168,నిమ్మకాయ ఎందుకు అంటే దానిలో acid ఏదైతే ఉంటుంది అది yeastని వాటిని కొంత temporaryగా relief ఇస్తుంది మీకు.,నిమ్మకాయ ఎందుకు అంటే దానిలో ఆమ్లం ఏదైతే అది యీస్ట్ని వాటిని కొంత తాత్కాలికంగా ఉపశమనం ఇస్తుంది.,This is why lemons have acid in them that gives the yeast some temporary relief.
+169,169,"but ఈ virus అనేది, ఈ fungus అనేది, తొందరగా చావదు అది.","కానీ ఈ వైరస్ అనేది, ఈ ఫంగస్ అనేది, తొందరగా చావదు.","But this virus, this fungus, does not die quickly."
+170,170,sir నమస్కారం అండి.,సార్ నమస్కారం అండి.,Hello sir.
+171,171,2 times skin specialist దెగ్గరికి వెళ్ళాము,2 సార్లు చర్మ నిపుణుడు దెగ్గరికి వెళ్ళాము,Went to a dermatologist 2 times
+172,172,ఆ మందులు వాడినంత సేపే కొంత reliefగా ఉంటుంది తర్వాత ఎక్కువ దురదగా,ఆ మందులు వాడినంత సేపే కొంత ఉపశమనంగా ఉంటుంది తర్వాత ఎక్కువ దురదగా,The medicine gives some relief for a while and then more itching
+173,173,చాలా heavyగా దురద వచ్చేసి ఎర్రగా కురుపులెక్క వస్తున్నాయి.,చాలా భారీగా దురద వచ్చేసి ఎర్రగా కురుపులెక్క వస్తున్నాయి.,Very itchy and red bumps.
+174,174,"eneralగా ఇప్పుడు ointments creams వీళ్ళు ఇచ్చేవి ఏంటి అంటే temporaryగా ఆ పైన ఏదైతే fungal ఉంటుందో అది చనిపోతుంది, అప్పటికీ cover అవుతుంది.","సాధారణంగా ఇప్పుడు లేపనాలు క్రీములు వీళ్ళు ఇచ్చేవి ఏంటి అంటే తాత్కాలికంగా ఆ పైన ఏదైతే ఫంగల్ ఉంటుందో అది చనిపోతుంది, అప్పటికీ కవర్ అవుతుంది.",Usually what they give now are ointments creams that temporarily kill whatever fungus is on it and still cover it.
+175,175,"but ఈ fungus ఏంటిది అంటే internalగా ఉంటుంది, దానికి surroundings ఏదైనా, so అది permanentగా తగ్గాలి అంటే మాత్రం compulsory internalగా treatment తీసుకోవాలి.","కానీ ఈ ఫంగస్ ఏంటిది అంటే అంతర్గతంగా ఉంటుంది, దాని పరిసరాలు ఏదైనా, కాబట్టి అది శాశ్వతంగా తగ్గాలి అంటే మాత్రం తప్పనిసరిగా అంతర్గతంగా చికిత్స తీసుకోవాలి.","But this fungus is internal, whatever its environment, so it must be treated internally if it is to be permanently reduced."
+176,176,చెప్పండి sir ఏం problem ఉంది,చెప్పండి సార్ ఏం సమస్య ఉంది,Tell me sir what is the problem
+177,177,ఇంట్లో ఒక 2 years నుంచి psoriasis problem ఉంది sir,ఇంట్లో ఒక 2 సంవత్సరాల నుంచి సోరియాసిస్ సమస్య ఉంది సార్,There is a problem of psoriasis at home since 2 years sir
+178,178,"only కాళ్ళకి, వెళ్ళ మధ్యలో వస్తుంది sir.","మాత్రమే కాళ్ళకి, మధ్యలోకి వస్తుంది సార్.","Only to the legs, it comes in the middle, sir."
+179,179,treatment ఏమైనా తీసుకుంటున్నారా? ointments అలాంటివి వాడుతున్నారా అండి?,చికిత్స ఏమైనా తీసుకుంటున్నారా? లేపనాలు అలాంటివి వాడుతున్నారా అండి?,Are you receiving any treatment? Do you use ointments like that?
+180,180,బయట ఒక 6 months back అయితే తీసుకున్నాము,బయట ఒక 6 నెలల క్రితం అయితే తీసుకున్నాము,We took it out about 6 months ago
+181,181,course తీసుకున్నాక కొంచం recovery అయింది తర్వాత నుంచి మళ్ళి start అయితుంది,కోర్సు తీసుకున్నాక కొంచం రికవరీ అయింది తర్వాత నుంచి మళ్ళి స్టార్ట్ అయితుంది,"After taking the course, there was a little recovery and after that it started again"
+182,182,ఏం problem ఉంది?,ఏం సమస్య ఉంది?,What's the problem?
+183,183,నమస్కారం doctor గారు,నమస్కారం వైద్యుడు గారు,Hello Doctor
+184,184,అంటే పెద్ద పెద్ద patches ఉంటాయా అండి?,అంటే పెద్ద పెద్ద పాచెస్ ఉంటాయా అండి?,Does that mean there will be large patches?
+185,185,లేకపోతే మొత్తం body అనేది దాంట్లోనే cover అయి ఉంటదా?,లేకపోతే మొత్తం శరీరం అనేది దాంట్లోనే కవర్ అయి ఉంటుందా?,Otherwise the whole body is covered by it?
+186,186,ఆ మొత్తం body మీద వీపు మీద అక్కడ ఉంటాయి sir అది,ఆ మొత్తం శరీరం మీద వీపు మీద అక్కడ ఉంటాయి సార్ అది,Sir it is there on the back on the whole body
+187,187,దురద అంటే ఏదైనా food items తీసుకున్నప్పుడు వస్తది అండి.,దురద అంటే ఏదైనా ఆహార పదార్థాలు తీసుకున్నప్పుడు వస్తది అండి.,Itching is when you eat any food.
+188,188,actualగా ఏంటి అంటే english మందులు అన్నీ వాడాను sir,అసలు ఏంటి అంటే ఆంగ్ల  మందులు అన్నీ వాడాను సార్,"Actually, I used all the English medicines, sir"
+189,189,homeo కూడా వాడను sir,హోమియోపతి కూడా వాడను సార్,I don't even use homeopathy sir
+190,190,local homeo ఉంటది కదా అండి.,స్థానిక హోమియోపతి ఉంటది కదా అండి.,Is there local homeopathy?
+191,191,అది సీతాకాలం 2 3 months నుంచి బాగా బీభత్సంగా వస్తుంది అండి body మీద.,అది సీతాకాలం 2 3 నెలల నుంచి బాగా బీభత్సంగా వస్తుంది అండి శరీరం మీద.,It comes on the body from 2 to 3 months of winter.
+192,192,start ఎప్పుడు అయింది అండి?,మొదలు ఎప్పుడు అయింది?,When did it start?
+193,193,ఇది start ఎప్పుడు అయింది అండి? ఎప్పుడు మొదలైంది?,ఇది ప్రారంభం ఎప్పుడు అయింది అండి? ఎప్పుడు మొదలైంది?,When did it start? When did it start?
+194,194,ఇది start అయి ఒక 1 year అవుతుంది అండి.,ఇది ప్రారంభం అయి ఒక 1 సంవత్సరం అవుతుంది.,It will be 1 year since its inception.
+195,195,"అది medicine వాడుతున్నాను అండి, ఎమి change ఎమి కనబడడంలేదు","అది మెడిసిన్ వాడుతున్నాను అండి, ఎమి మార్పు ఎమి కనబడడంలేదు","I am using medicine, but I am not seeing any change"
+196,196,"ఇది నేను చెప్పింది, scalpలో start అవుతుందండి, తల నుంచి start అవ్వడం జరుగుతది అని చెప్పాను కదా","ఇది నేను చెప్పింది, నెత్తిమీద మొదలవుతుంది, తల నుంచి ప్రారంభం అవ్వడం జరుగుతుందని చెప్పాను కదా","This is what I said, it starts at the scalp, didn't I say that it starts from the head"
+197,197,అలాగే మీకు start అయింది,అలాగే మీకు ప్రారంభం అయింది,And you have a start
+198,198,and ఇది వచ్చేసిన తరువాత body మీద కూడా develop అవ్వడం జరుగుతది specially in the winter seasons అన్నమాట,మరియు ఇది వచ్చేసిన తరువాత శరీరం మీద కూడా అభివృద్ధి అవ్వడం జరుగుతది ప్రత్యేకంగా శీతాకాలపు సీజన్లలో అన్నమాట,And after it comes it also develops on the body especially in winter seasons
+199,199,"అది ఆ type వస్తుంది sir, వొళ్ళంతా వస్తుంది sir.","అది ఆ రకం వస్తుంది సార్, వొళ్ళంతా వస్తుంది సార్.","It will come that way, sir, all of them will come, sir."
+200,200,start ఎప్పుడు అయింది అండి?,మొదలు ఎప్పుడు అయింది?,When did it start?
+201,201,ఇది start అయి ఒక 1 year అవుతుంది అండి.,ఇది ప్రారంభం అయి ఒక 1 సంవత్సరం అవుతుంది.,It will be 1 year since its inception.
+202,202,"అది medicine వాడుతున్నాను అండి, ఎమి change ఎమి కనబడడంలేదు","అది మెడిసిన్ వాడుతున్నాను అండి, ఎమి మార్పు ఎమి కనబడడంలేదు","I am using medicine, but I am not seeing any change"
+203,203,ok ok చెప్తానండీ,సరే సరే చెప్తానండీ,"Okay, I'll tell you"
+204,204,and ఇది వచ్చేసిన తరువాత body మీద కూడా develop అవ్వడం జరుగుతది specially in the winter seasons అన్నమాట,మరియు ఇది వచ్చేసిన తరువాత శరీరం మీద కూడా అభివృద్ధి అవ్వడం జరుగుతది ప్రత్యేకంగా శీతాకాలపు సీజన్లలో అన్నమాట,And after it comes it also develops on the body especially in winter seasons
+205,205,winter అంటే చలి ఉన్నప్పుడు మనకు dryness అనేది ఎక్కువ ఉండడం జరుగుతది అన్నమాట. skin కూడా పగులుతది,శీతాకాలం అంటే చలి ఉన్నప్పుడు మనకు డ్రైనెస్ అనేది ఎక్కువగా జరుగుతది అన్నమాట. చర్మం కూడా పగులుతది,"It is said that when winter is cold, dryness is more likely to happen to us. The skin is also brittle"
+206,206,చెప్పండి sir Karim Ullah గారు,చెప్పండి సార్ కరీం అల్లాహ్ గారు,Tell me Sir Karim Allah
+207,207,sir నాకు skin problem ఉంది sir,సార్ నాకు చర్మ సమస్య ఉంది సార్,Sir I have skin problem sir
+208,208,నేను skin doctor గారి దెగ్గరకు చూపించాను,నేను చర్మ వైద్యుడు గారి దెగ్గరకు చూపించాను,I was referred to a dermatologist
+209,209,"sir ఇప్పుడు నాకు psoriasis వొచింది నాకు మొదట psoriasis తగ్గిపోయింది, sir allergy వచ్చింది body అంతా","సార్ ఇప్పుడు నాకు సోరియాసిస్ వొచింది నాకు మొదట సోరియాసిస్ తగ్గిపోయింది, సర్ అలెర్జీ వచ్చింది","Sir now I have got psoriasis, at first my psoriasis subsided, sir I got allergy"
+210,210,psoriasis ఇవాళ తగ్గిపోయింది అని చెప్పారండీ ఈ homeopathy doctor,సోరియాసిస్ ఇవాళ తగ్గిపోయింది అని చెప్పారండీ ఈ హోమియోపతి డాక్టర్,This homeopathic doctor said that psoriasis has reduced today
+211,211,ramu గారు మీ age ఎంత అండి?,రాము గారు మీ వయసు ఎంత అండి?,Ramu garu how old are you?
+212,212,sir మీకు normalగా food అవన్నీ correctగా తీసుకుంటారా timeకి?,సార్ మీకు సాధారణంగా ఆహరం అవన్నీ సరిగా తీసుకుంటారా?,Sir do you usually take all the food properly?
+213,213,"time అంటే officeలో ఉంట madam actualగా నేను, accountantగా work చేస్తాను","సమయం అంటే ఆఫీసులో ఉంటాడు మేడమ్ అసలు నేను, ఖాతాదారిగా పని చేస్తాను","Time is in the office, madam, actually I work as an account manager"
+214,214,recentగా fever ఏమైనా వచ్చాయా అండి?,ఇటీవల జ్వరం ఏమైనా వచ్చాయా అండి?,Have you had any fever recently?
+215,215,లేదు madam,లేదు మేడమ్,No ma'am
+216,216,sir అది నాకు already ఒక 1 year నుంచి head మీద dandruff లాగా వచ్చింది sir,సార్ అది నాకు ఇప్పటికే ఒక 1 సంవత్సరం నుంచి తల మీద చుండ్రు లాగా వచ్చింది సార్,Sir it is like dandruff on my head since 1 year already
+217,217,అయితే నేను అది dandruff ఎమో అనేసి lite తీసుకున్నాను,అయితే నేను అది చుండ్రు ఎమో అనేసి లైట్ తీసుకున్నాను,But I took it lightly saying it was dandruff emo
+218,218,"తరువాత ఈ మధ్య recently నేను normal clinicకి వెళ్ళి చూపిస్తే medicine ఇచ్చారు, ఆ medicine ని వాడటం జరిగింది","తరువాత ఈ మధ్య ఈ మధ్యనే నేను నార్మల్ క్లినిక్ కి వెళ్ళి చూపిస్తే మందు ఇచ్చారు, ఆ మెడిసిన్ ని వాడటం జరిగింది","Later, recently, I went to the normal clinic and they gave me medicine, and I started using that medicine"
+219,219,అది medicine వాడినన్నీ రోజులే clear అయితుంది,అది మెడిసిన్ వాడినన్ని రోజులే స్పష్టం అయితుంది,It becomes clear after using the medicine
+220,220,తరువాత నేను Kukatpally ayurvedic centerకి వెళ్ళాను,తరువాత నేను కూకట్పల్లి ఆయుర్వేదిక్ సెంటర్ కి  వెళ్ళాను,Later I went to Kukatpally Ayurvedic Centre
+221,221,"present వాడుతున్నాను కానీ వాళ్ళు 6 months, 7 months వాడండి అని చెప్తున్నారు","ప్రస్తుతం వాడుతున్నాను కానీ వాళ్ళు 6 నెలలు, 7 నెలలు వాడండి అని చెప్తున్నారు",I am using it now but they say to use it for 6 months or 7 months
+222,222,"ఒక ప్రశ్న అండి, doctorగారు examine చేసి dandruff అన్నారా?","ఒక ప్రశ్న అండి, వైద్యుడుగారు పరిశిలన చేసి చుండ్రు అన్నారా?","Asking a question, the doctor pondered and said dandruff?"
+223,223,మా doctor ఏమన్నారంటే 1 year medicines వాడాలి sir అన్నారు,మా వైద్యుడు ఏమన్నారంటే 1 సంవత్సరం మందులు వాడాలి సార్ అన్నారు,What our doctor said is that we should use medicine for 1 year sir
+224,224,right అండి.,అవును అండి.,Yes come on.
+225,225,కొన్ని youtube videos చూస్తే అది life long ఉంటది scalp psoriasis అని,కొన్ని యూట్యూబ్ వీడియోలు చూస్తే జీవిత కాలం ఉంటది స్కాల్ప్ సోరియాసిస్అ ని,"If you watch some YouTube videos, you will have a lifetime of scalp psoriasis"
+226,226,దీనిని sinusitis అంటారు అమ్మా.,దీనిని సైనసైటిస్ అంటారు అమ్మ.,This is called sinusitis.
+227,227,age 70 ఉంటాయి sir,వయసు 70 సర్,Age 70 sir
+228,228,problem ఏంటి?,సమస్య ఏంటి?,what is the problem
+229,229,"ఆ, bp sugar ఉంది","ఆ, bp షుగర్ ఉంది","That, bp is sugar"
+230,230,ఇది అన్నీ pain వస్తాయి sir,ఇది అన్నీ నొప్పి వస్తాయి సార్,"It's all going to hurt, sir"
+231,231,ఇటు side అంతా నొప్పి ఉంది sir.,ఇటు వైపు అంతా నొప్పి ఉంది సార్.,"There is pain all over this side, sir."
+232,232,నేను tabletలు రాసి ఇస్తా,నేను మాత్రలు రాసి ఇస్తా,I will prescribe the pills
+233,233,"report 4, 5 రోజులకి ఇస్తాడు.","నివేదిక 4, 5 రోజులకి ఇస్తాడు.",The report will be given in 4-5 days.
+234,234,"నొప్పి, లోపట earbuds పెడితే నొప్పిలేస్తాంది sir.","నొప్పి, లోపట ఇయర్‌బడ్స్ పెడితే నొప్పిలేస్తుంది సార్.","Pain, if you put earbuds inside, it hurts sir."
+235,235,same మందులు ఇంకో 3 days కి వేస్కో.,అదే మందులు ఇంకో 3 రోజులు కి వేస్కో.,Take the same medicine for another 3 days.
+236,236,ఇదే ఇంత powerful వద్దు.,ఇదే ఇంత శక్తివంతమైన వద్దు.,This is not so powerful.
+237,237,దగ్గొస్తాంది sir.,దగ్గొస్తంది సార్.,Cough sir.
+238,238,cough వస్తుంది.,దగ్గు వస్తుంది.,Cough occurs.
+239,239,night బాగా వస్తాంది sir,రాత్రి బాగా వస్తాంది సార్,Good night sir
+240,240,regularగా tablets వాడండి.,రెగ్యులర్గా మాత్రలు వాడండి.,Use the pills regularly.
+241,241,"allergy అమ్మా, infection కాదు.","అలెర్జీ అమ్మ, ఇన్ఫెక్షన్ కాదు.","Allergy mom, not infection."
+242,242,అలాగే sir tablets వాడుతాను.,అలాగే సార్ మాత్రలు వాడతాను.,I also use pills sir.
+243,243,"ce cream, cool drinks, chocolates తీసుకోవద్దు.","ఐస్ క్రీమ్, శీతల పానీయాలు, చాక్లెట్లు తీసుకోవద్దు.","Do not take ice cream, soft drinks, chocolates."
+244,244,ok రాస్తున్నా.,అలాగే రాస్తున్నా.,Also writing.
+245,245,జలుబు అంటే frequentగా వస్తుంది అండి.,జలుబు అంటే తరచుగా వస్తుంది అండి.,Colds are frequent.
+246,246,nightకి ఈ side మొత్తం శ్వాస ఆడనట్లు అయింది అండి.,రాత్రికి ఈ వైపు మొత్తం శ్వాస ఆడనట్లు అయింది.,The whole side of the night was breathless.
+247,247,ఊరికే జలుబు చేస్తున్నట్లు అయి nose తోనే voice వస్తుంది.,ఊరికే జలుబు అయి ముక్కు తోనే వాయిస్ వస్తుంది.,It's just a cold and the voice comes through the nose.
+248,248,ఆ ఈ మధ్య 2 days అయితుంది.,ఆ ఈ మధ్య 2 రోజులు అయితుంది.,It's been 2 days now.
+249,249,"nose block అయినట్లు, 1 month నుంచి ఇలానే వస్తుంది sir, voice.","ముక్కు బ్లాక్ అయినట్లు, 1 నెల నుంచి ఇలానే వస్తుంది సార్, గొంతు.","As if the nose is blocked, like this since 1 month sir, throat."
+250,250,last week fever కూడా వచ్చింది.,గత వారం జ్వరం కూడా వచ్చింది.,Also got fever last week.
+251,251,ఇది allergic అంటారు దీని.,ఇది అలెర్జీ అంటారు.,This is called allergy.
+252,252,కొంచం bone కూడా mildగా bend అయి ఉంది కానీ అది ఏం problem కాదు.,కొంచం ఎముక కూడా కొంచెంగా వంకర అయి ఉంది కానీ అది ఏం సమస్య కాదు.,A bit of the bone is also a bit crooked but that's not a problem.
+253,253,ఒక one month నుంచి voice ఇలానే ఉంటుంది sir.,ఒక నెల నుంచి వాయిస్ ఇలానే ఉంటుంది సార్.,The voice is the same since one month sir.
+254,254,fever కూడా దానివల్లే వచ్చిందంటారా sir?,జ్వరం దానివల్లే వచ్చిందంటారా సార్?,"Do you think the fever is due to that, sir?"
+255,255,antibiotic use చేయాలా sir?,యాంటీబయాటిక్ వాడాలా సార్?,Antibiotic should be used sir?
+256,256,"అవును sir అప్పుడు తగ్గిపోయింది, fever తగ్గిపోయింది.","అవును సర్ అప్పుడు తగ్గిపోయింది, జ్వరం తగ్గిపోయింది.","Yes sir then it subsided, the fever subsided."
+257,257,చిన్నగా throat నొప్పి ఉండే.,చిన్నగా గొంతు నొప్పి ఉంటే.,If you have a slight sore throat.
+258,258,"just ఈ voice ఏ normal ఇంకా, ఎప్పుడు జలుబు ఉన్నట్లే ఇట్లనే వస్తుంది.","కేవలం ఈ గొంతు ఏ మామూలు ఇంకా, ఎప్పుడు జలుబు ఉన్నట్లే ఇట్లనే వస్తుంది.",It's just that this voice always comes like this when you have a cold.
+259,259,ఈ bone దెగ్గర ఇట్ల నొక్కితే,ఈ ఎముక దెగ్గర ఇట్ల అవసరం,This bone height is necessary
+260,260,ఎప్పుడన్నా bone దగ్గర నొక్కితే lightగా pain sir sensation ఉంది.,ఎప్పుడన్నా ఎముక దగ్గర ఉంటే తేలికగా నొప్పి ఉంది సార్ సంచలనం.,"Any time near the bone, there is mild pain, sir. Sensation."
+261,261,and అప్పట్లో ఇలా నొక్కితే కొంచం yellowగా వచ్చింది,మరియు అప్పట్లో ఇలా చేస్తే కొంచం పసుపు రంగు వచ్చింది,And doing this back then gave it a slight yellow color
+262,262,లోపల infection కొంచం బయటికి వచ్చినట్లు.,లోపల ఇన్ఫెక్షన్ కొంచం బయటికి వచ్చినట్లు.,As if the infection inside had come out a little.
+263,263,ఏ syrup వాడినా tablets వాడినా జలుబు తగ్గట్లే.,ఏ సిరప్ వాడినా మాత్రలు వాడినా జలుబు తగ్గట్లే.,"No matter what syrup you use, whether you use pills, it will reduce the cold."
+264,264,tablets and ముక్కులో మందే వాడాము.,మాత్రలు మరియు ముక్కులో మందే వాడాము.,We used tablets and nasal drops.
+265,265,నేను ఇంతకుముందు మీ దెగ్గర operation కూడా చేయించుకున్నా.,నేను ఇంతకుముందు మీ దెగ్గర ఆపరేషన్ కూడా చేయించుకున్నా.,I have also undergone your Deggara operation earlier.
+266,266,గొంతు operation చేసారు sir.,గొంతు ఆపరేషన్ చేసారు సార్.,Throat operation done sir.
+267,267,ఇది 2 days back వచ్చాను sir.,ఇది 2 రోజుల క్రితం వచ్చాను సార్.,It came 2 days ago sir.
+268,268,spray కొట్టుకున్న తరువాత ఒక nasal block అవుతుంది sir.,స్ప్రే కొట్టుకున్న తరువాత ఒక నాసికా బ్లాక్ అవుతుంది సార్.,A nasal block after hitting the spray sir.
+269,269,ఒక nasal free అవుతుంది sir.,ఒక నాసల్ ఫ్రీ అవుతుంది సార్.,One nasal will be free sir.
+270,270,day by day ఇట్ల అవుతుంది.,రోజు రోజుకి ఇట్ల అవుతుంది.,This is happening day by day.
+271,271,"కొంచం breathing, 80 percent sneezing తక్కువ అయింది.","కొంచం శ్వాస, 80 శాతం తుమ్ము తక్కువ అయింది.",Slight breathing and 80 percent less sneezing.
+272,272,"ఇట్ల ఆ first day నొప్పి ఉంది sir, medicine వాడాను మంచిగా","ఇట్ల ఆ మొదటి రోజు నొప్పి ఉంది సార్, మందు వాడాను మంచిగా","There was pain on that first day sir, I used medicine for good"
+273,273,నొప్పి తగ్గింది sir,నొప్పి తగ్గింది సార్,The pain has subsided sir
+274,274,"ఇట్ల ఆ first day నొప్పి ఉంది sir, medicine వాడాను మంచిగా","ఇట్ల ఆ మొదటి రోజు నొప్పి ఉంది సార్, మందు వాడాను మంచిగా","There was pain on that first day sir, I used medicine for good"
+275,275,ఒక్కటే tablet రాసి ఇస్తా.,ఒక్కటే మాత్ర రాసి ఇస్తా.,Only one pill will be prescribed.
+276,276,చీము అసలు ఎమి రావడంలేదు sir కాకపోతే daily ఓ earbud పెట్టనిది నిద్ర పట్టదు sir.,చీము అసలు ఏమి రావడంలేదు సార్ కాకపోతే రోజూ ఓ ఇయర్‌బడ్ పెట్టనిది నిద్ర పట్టదు సార్.,"The pus is not coming out, sir, if not, you can't sleep if you don't put an earbud every day."
+277,277,బాగా దురద పెడుతుంది sir.,బాగా దురద పెడుతుంది సార్.,Very itchy sir.
+278,278,sound వినపడుతుంది sir.,ధ్వని వినపడుతుంది సార్.,The sound is heard sir.
+279,279,దీనిని fungus infection అంటారు.,దీనిని ఫంగస్ ఇన్ఫెక్షన్ అంటారు.,This is called a fungal infection.
+280,280,earbud పెట్టుకోని నిద్ర పోవొద్దా sir?,ఇయర్‌బడ్ పెట్టుకొని నిద్ర పోవొద్దా సార్?,Don't sleep with earbud on sir?
+281,281,thyroid అంటే నీకు ఏమి problem?,థైరాయిడ్ అంటే నీకు ఏమి సమస్య?,What is your thyroid problem?
+282,282,ఇది వాడిన తరువాత ఇది normal వచ్చింది.,ఇది వాడిన తరువాత ఇది మామూలుగా వచ్చింది.,After using it it came back normal.
+283,283,ఇదొక్కటే problem ఉంది.,ఇదొక్కటే సమస్య.,This is the only problem.
+284,284,early moring పొడి దగ్గు,ఉదయాన్నే పొడి దగ్గు,Dry cough in the morning
+285,285,కొంచం గొంతు infection ఉంది.,కొంచం గొంతు ఇన్ఫెక్షన్ ఉంది.,Had a slight throat infection.
+286,286,lungs  clearగానే ఉన్నాయి,ఊపిరితిత్తులు స్పష్టంగా ఉన్నాయి,Lungs are clear
+287,287,sir ఈ మందులు 1 month వాడిన sir.,సార్ ఈ మందులు 1 నెల వాడిన సార్.,"Sir, I used this medicine for 1 month."
+288,288,night వేసుకున్న sir,రాత్రి వేసుకున్న సార్,Sir wearing night
+289,289,అయితే అప్పటిలాగా లేదు sir soundలు అప్పుడు బాగా ఉండే audiogram చేయించినప్పుడు,అయితే అప్పటిలాగా లేదు సార్ శబ్దాలు అప్పుడు బాగా ఉండే ఆడియోగ్రామ్ చేయించినప్పుడు,But it is not like then sir when the audiogram was done which was good
+290,290,ఇందులో bone ఒక్కటి bend అయి ఉంది.,ఇందులో ఎముక ఒక్కటి వంగి ఉంది.,One of the bones is bent.
+291,291,1 week నుంచి ఈ ear అసలు కొద్దిగా sound తక్కువ వస్తుంది నిన్నటినుంచి ఇది కూడా.,1 వారం నుంచి ఈ చెవిలో అసలు కొద్దిగా సౌండ్ వస్తుంది నిన్నటినుంచి ఇది కూడా.,Since 1 week there is a little sound in this ear and this is also from yesterday.
+292,292,అయితే నేను microbiology technician sir MGMలో,అయితే నేను మైక్రోబయాలజీ టెక్నీషియన్ సర్ MGMలో,But I am microbiology technician sir in MGM
+293,293,cold ఉంది sir బాగా.,చల్లని ఉంది సార్ బాగా.,It's cool sir well.
+294,294,blood వస్తుంది sir.,రక్తం వస్తుంది సార్.,"There will be blood, sir."
+295,295,sneeze చేయడానికి.,తుమ్ము చేయడానికి.,to sneeze
+296,296,headache వస్తుంది అంటుంది.,తలనొప్పి వస్తుంది అంటుంది.,Headache is coming.
+297,297,tissue paper ముక్కులో మాత్రం పెట్టొద్దు,కణజాల కాగితం ముక్కులో మాత్రం పెట్టొద్దు,Do not put the tissue paper in the nose
+298,298,ఒక్కోసారి వస్తే 15 20 times continuous వస్తాయి.,ఒక్కోసారి వస్తే 15 20 సార్లు నిరంతరం వస్తాయి.,If it comes once in a while 15 20 times it comes continuously.
+299,299,ఇది Asthma ఉంది sir,ఇది ఆస్తమా ఉంది సార్,This is asthma sir
+300,300,"gasteroenterologist ని కలిశాము, పరీక్షలుచేసి అంతా బాగుందని medicines ఇచ్చారు అయినా తగ్గడం లేదు.","గ్యాస్ట్రోఎంటరాలజిస్ట్ ని కలిశాము, పరీక్షలు చేసి అంతా బాగుందని మందులు ఇచ్చారు అయినా తగ్గడం లేదు.","We met a gastroenterologist, they did tests and everything was fine, they gave me medicine but it didn't reduce."
+301,301,"right upper abdominal లో విపరీతమైన pain, burning sensation ఉంది.","కుడి ఎగువ పొత్తికడుపులో విపరీతమైన నొప్పి, మండే అనుభూతి.","Extreme pain in right upper abdomen, burning sensation."
+302,302,అన్నిట్లో normal ఉంది.,అన్నిట్లో సాధారణమైనది.,Most common of all.
+303,303,కానీ pain మాత్రం తగ్గట్లేదు.,కానీ నొప్పి మాత్రం తగ్గలేదు.,But the pain did not subside.
+304,304,గత 7 8 years నుంచి నేను gym చేస్తున్నాను.,గత 7 8 సంవత్సరాల నుంచి నేను జిమ్ చేస్తున్నాను.,I have been doing gym since last 7 8 years.
+305,305,నొప్పి వచ్చినప్పుడల్లా motion free అవుతుంది.,నొప్పి వచ్చినప్పుడల్లా విరోచనం సాఫీగా అవుతుంది.,"Whenever there is pain, vomiting becomes smooth."
+306,306,ఒక్కోసారి hold అయినట్లు ఒక్కోసారి మధ్య మధ్యలో break అవుతుంది.,ఒక్కోసారి హోల్డ్ అయినట్లు ఒక్కోసారి మధ్య మధ్యలో బ్రేక్ అవుతుంది.,Sometimes it is held and sometimes it breaks in the middle.
+307,307,చిన్నప్పుడు కడుపులో worms ఉండేవి.,చిన్నప్పుడు కడుపులో పురుగులు ఉండేవి.,Worms in the stomach as a child.
+308,308,day timeలో బాగానే ఉంటుంది.,పగటి సమయంలో బాగానే ఉంటుంది.,It's fine during the day.
+309,309,right side stomachలో అలాగే back side బాగా pain వస్తుంది.,కుడి వైపు కడుపు అలాగే వెనుకవైపు బాగా నొప్పి వస్తుంది.,The right side of the stomach and the back are very painful.
+310,310,ల pain వచ్చినప్పుడల్లా vomitings అయితుంది.,ల నొప్పి వచ్చినప్పుడల్లా వాంతులు అయితుంది.,Vomiting occurs whenever there is pain.
+311,311,chestలో కూడా నొప్పిగా ఉంటుంది.,ఛాతీలో కూడా నొప్పిగా ఉంటుంది.,There is also pain in the chest.
+312,312,ఇల pain వచ్చినప్పుడల్లా vomitings అయితుంది.,ఇల నొప్పి వచ్చినప్పుడల్లా వాంతులు అయితుంది.,Vomiting occurs whenever pain occurs.
+313,313,ఇల గతం 15 yearsగా అవుతుంది.,ఇలా గతం 15 సంవత్సరాలు అవుతుంది.,It has been 15 years.
+314,314,dr ని consult చేస్తే. ultrasound scan చేసి muscular pain అని అన్నారు.,dr ని సంప్రదిస్తే చేస్తే. అల్ట్రాసౌండ్ స్కాన్ చేసి కండరాల నొప్పి అని అన్నారు.,If you consult dr. They did an ultrasound scan and said it was muscle pain.
+315,315,medicines రాశారు.,మందులు రాశారు.,Medicines were prescribed.
+316,316,pain తగ్గట్లేదు.,నొప్పి తగ్గలేదు.,The pain did not subside.
+317,317,తరువాత మళ్లీ test చేయించాను.,తరువాత మళ్లీ పరీక్ష చేయించుకున్నాను.,Then I took the test again.
+318,318,serum analysis test చేశారు.,రక్తరసి విశ్లేషణ పరీక్ష చేశారు.,A blood analysis test was done.
+319,319,infection వచ్చింది అని చెప్పారు.,ఇన్ఫెక్షన్ వచ్చింది అని చెప్పారు.,He said he got an infection.
+320,320,మళ్లీ medicines వాడుతూనే ఉన్నాను.,మళ్లీ మందులు వాడుతూనే ఉన్నాను.,I am still using medicine.
+321,321,మా అబ్బాయికి adbdominal tb ఉంటే 11 months treatment తీసుకున్నాడు.,మా అబ్బాయికి ఉదర tb ఉంటే 11 నెలల చికిత్స తీసుకున్నాడు.,My son had abdominal tb and took 11 months of treatment.
+322,322,ఇప్పుడు reports అన్ని normalగానే ఉన్నాయి.,ఇప్పుడు రిపోర్ట్స్ అన్నీ మామూలుగానే ఉన్నాయి.,Now all the reports are normal.
+323,323,కానీ అప్పుడప్పుడు abdomin pain వస్తుంది.,కానీ అప్పుడప్పుడు పొత్తి కడుపు నొప్పి వస్తుంది.,But occasionally there is abdominal pain.
+324,324,gas problem ఉంది.,గ్యాస్ సమస్య ఉంది.,There is a gas problem.
+325,325,"విపరీతమైన కడుపు వస్తూ ఉంటే dr ని consult చేస్తే appendicities ఉందని చెప్పారు, తరువాత, అది కాదు అని తెలిసింది.","విపరీతమైన కడుపు వస్తూ ఉంటే dr ని కన్సల్ట్ చేస్తే అపెండిసైటిస్ అని చెప్పారు, తరువాత, అది కాదు అని తెలిసింది.","If you consult a doctor if you have a severe stomachache, you are told that it is appendicitis, later, it is not."
+326,326,కొంత relax అయ్యాం,కొంత రిలాక్స్ అయ్యాం,We relaxed a bit
+327,327,పరీక్షలుచేసి కడుపులో infection ఉంది అని చెప్పాను.,పరీక్షలు చేసి కడుపులో ఇన్ఫెక్షన్ ఉందని చెప్పాను.,Tests were done and I was told that there was an infection in the stomach.
+328,328,నాకు one year కింద నుంచి కడుపు నొప్పి వస్తుంది.,నాకు ఒక సంవత్సరం కింద నుంచి కడుపు నొప్పి వస్తుంది.,I am having stomach pain since less than a year.
+329,329,అలాగే తలనొప్పి vomitings అవుతున్నాయి.,అలాగే తలనొప్పి వాంతులు అవుతున్నాయి.,Also headache and vomiting.
+330,330,ఎన్నో medicines వాడుతున్నాను అయినప్పటికీ ఎలాంటి ఉపయోగం లేదు.,మందులు వాడుతున్నాను అయినప్పటికీ ఎలాంటి ఉపయోగం లేదు.,"Even though I am using medicines, there is no use."
+331,331,ఏమి తిన్నా చివరికి పెరుగన్నం తిన్నా కడుపు అంతా irritating ఉంటుంది.,ఏమి తిన్నా చివరికి పెరుగన్నం తిన్నా కడుపు అంతా చికాకుగా ఉంటుంది.,"No matter what you eat, even if you eat curd in the end, your stomach will be irritated."
+332,332,తిన్నా వెంటనే gas form అయితుంది.,తిన్న వెంటనే గ్యాస్ ఏర్పడుతుంది.,Gas occurs immediately after eating.
+333,333,gas లో smell కూడా ఉంటుంది.,గ్యాస్ లో వాసన కూడా ఉంటుంది.,Gas also has an odor.
+334,334,మాటిమాటికి motion కి urine కి వెళ్తున్నాడు.,మాటిమాటికి విరోచనం కి మూత్రం కి వెళ్తున్నాడు.,He is going to urinate after talking.
+335,335,గతం కొన్ని రోజులుగా కడుపులో right side pain వస్తుంది.,గతం కొన్ని రోజులుగా కడుపులో కుడివైపు నొప్పి వస్తుంది.,For the past few days I have been having pain in the right side of my stomach.
+336,336,గతం సంవత్సరం నుంచి gastric మరియు indigestion సమస్య ఉంది.,గత సంవత్సరం నుండి గ్యాస్ట్రిక్ మరియు అజీర్ణం సమస్య ఉంది.,Gastric and indigestion problem since last year.
+337,337,uncontrol motions ఉన్నాయి.,అనియంత్రిత కదలికలు ఉన్నాయి.,There are uncontrolled movements.
+338,338,ఈమధ్య suddenga బరువు తగ్గాను.,ఈమధ్య హఠాత్తుగా బరువు తగ్గాను.,I lost weight suddenly.
+339,339,క్కువగా alcohol తీసుకుంటారు.,క్కువగా మద్యం తీసుకుంటారు.,Drink less alcohol.
+340,340,liver కూడా damage అయింది.,కాలేయం కూడా దెబ్బతింది.,The liver is also damaged.
+341,341,sugar కూడా పడిపోతూ ఉంటుంది.,చక్కెర కూడా పడిపోతూ ఉంటుంది.,Sugar also keeps falling.
+342,342,బరువు 85 kgs ఉంటారు.,బరువు 85 kgs ఉంటారు.,Weight is 85 kgs.
+343,343,10 years back accident అయినప్పుడు కాళికి చర్మానికి గాయాలు అయ్యాయి.,10 సంవత్సరాల క్రితం ప్రమాదం అయినప్పుడు కాళికి చర్మానికి గాయాలు అయ్యాయి.,Kali suffered skin injuries in an accident 10 years ago.
+344,344,swelling కూడా వస్తుంది.,వాపు కూడా వస్తుంది.,Swelling also occurs.
+345,345,suddenga రక్తపు వాంతులు వస్తున్నాయి.,ఆకస్మికంగా రక్తపు వాంతులు వస్తున్నాయి.,Sudden vomiting of blood.
+346,346,weight పెరగడం లేదు.,బరువు పెరగడం లేదు.,No weight gain.
+347,347,jaundice ఉంది.,కామెర్లు ఉంది.,There is jaundice.
+348,348,bp కూడా normal ఉంది.,bp కూడా సాధారణమైనది.,bp is also normal.
+349,349,నేను 1st time alcohol తీసుకున్నాను.,నేను మొదటి సారి మద్యం తీసుకున్నాను.,I took alcohol for the first time.
+350,350,తీసుకున్నప్పుడు stomach pain వచ్చింది.,తీసుకున్నప్పుడు కడుపు నొప్పి వచ్చింది.,Stomach ache while taking.
+351,351,vomitings కూడా అయ్యాయి.,వాంతులు కూడా అయ్యాయి.,There was also vomiting.
+352,352,alcohol తీసుకోవడం వల్ల పొట్టలో అంతా మంటగా ఉంటుంది.,మద్యం తీసుకోవడం వల్ల పొట్టలో అంతా మంటగా ఉంటుంది.,Consuming alcohol causes inflammation in the stomach.
+353,353,1 glass beer తాగాను.,1 గ్లాస్ బీర్ తాగాను.,I drank 1 glass of beer.
+354,354,బాగా severe pain వస్తుంది.,బాగా తీవ్రమైన నొప్పి వస్తుంది.,Very severe pain.
+355,355,viral జ్వరం వచ్చింది.,వైరల్ జ్వరం వచ్చింది.,Got a viral fever.
+356,356,antibiotics తీసుకుంటే కడుపు బాగా నొప్పి లేస్తుంది అంటున్నాడు.,యాంటీబయాటిక్స్ తీసుకుంటే కడుపు బాగా నొప్పి లేస్తుంది అంటున్నాడు.,"He says that if you take antibiotics, you will get stomach ache."
+357,357,నాకు acid reflux సమస్య ఉంది.,నాకు యాసిడ్ రిఫ్లక్స్ సమస్య ఉంది.,I have acid reflux problem.
+358,358,తం 4 5 years గా brush చేయక ముందు నీళ్లు తాగి బలవంతంగా vomiting చేసుకుంటున్నాను,తం 4 5 సంవత్సరాలుగా బ్రష్ చేయక ముందు నీళ్లు తాగి బలవంతంగా వాంతులు చేసుకుంటున్నాను,For the past 4 5 years I have been forcefully vomiting after drinking water before brushing
+359,359,కడుపులో ఉన్న acid బయటకు తీయకపోతే ఆ రోజంతా ఛాతి పట్టేసినట్లు uneasy గా ఉంటుంది.,కడుపులో ఉన్న యాసిడ్ బయటకు తీయకపోతే ఆ రోజంతా ఛాతి పట్టేసినట్లు అసౌకర్యంగా ఉంటుంది.,"If the acid in the stomach is not flushed out, the chest will feel uncomfortable throughout the day."
+360,360,software job చేస్తున్నాను.,సాఫ్ట్‌వేర్ ఉద్యోగం చేస్తున్నాను.,I am doing a software job.
+361,361,నాకు gas problem ఉంది.,నాకు గ్యాస్ సమస్య ఉంది.,I have gas problem.
+362,362,gas trouble ఉంది.,గ్యాస్ ట్రబుల్ ఉంది.,There is a gas problem.
+363,363,నాకు 4 months నుంచి acidity సమస్య ఉంది.,నాకు 4 నెలల నుంచి అసిడిటీ సమస్య ఉంది.,I have acidity problem since 4 months.
+364,364,constipation ఉంది.,మలబద్ధకం ఉంది.,There is constipation.
+365,365,బాగా pain motions అయ్యేటప్పుడు.,బాగా నొప్పి కదలికలు అయ్యేటప్పుడు.,Very painful movements.
+366,366,"తం వారం రోజులుగా left side breast లో నొప్పి, వాపు ఉంది.","తం వారం రోజులుగా ఎడమ వైపు రొమ్ము లో నొప్పి, వాపు ఉంది.",There has been pain and swelling in the left breast for a week.
+367,367,3rd month pregnant ని.,3వ నెల గర్భిణి ని.,3rd month pregnant
+368,368,weight తగ్గించుకోవాలి అని వచ్చాను.,బరువు తగ్గించుకోవాలి అని వచ్చాను.,I came to lose weight.
+369,369,"unmarried, నాకు విపరీతంగా పొట్టలో నొప్పి వస్తుంది.","పెళ్లికాని, నాకు విపరీతంగా పొట్టలో నొప్పి వస్తుంది.","Unmarried, I get extreme stomach ache."
+370,370,ఒక్కోసారి periodicalగా ఉంది నొప్పి.,ఒక్కోసారి కాలానుగుణంగా ఉంది నొప్పి. ,Sometimes the pain is seasonal.
+371,371,ఒక్కోసారి hold అయి ఉంటుంది.,ఒక్కోసారి పట్టు అయి ఉంటుంది.,Sometimes it is a grip.
+372,372,lood తక్కువగా ఉన్నట్లు కనిపిస్తాడు.,lood తక్కువగా కనిపిస్తాడు.,lood appears low.
+373,373,non veg తీసుకున్నప్పుడు motion సరిగ్గా రాదు.,మాంసాహారం తీసుకున్నప్పుడు విరోచనం సరిగ్గా రాదు.,Aversion does not come properly when eating meat.
+374,374,ఎప్పుడైనా బయట తిన్నప్పుడు కానీ లేదా functionsకి attend అయినప్పుడు కానీ నాకు ఈ సమస్య వచ్చేది.,ఎప్పుడైనా బయట తిన్నప్పుడు కానీ లేదా ఫంక్షన్లకు హాజరు అయినప్పుడు కానీ నాకు ఈ సమస్య వస్తుంది.,I get this problem whenever I eat out or attend functions.
+375,375,"2,3 days gap తో ఇల వస్తుంది.","2,3 రోజుల గ్యాప్ తో ఇలా వస్తుంది.",It comes with a gap of 2-3 days.
+376,376,దీనివల్ల పుట్టబోయే బిడ్డకి ఏమైనా problem వస్తుందా?,దీనివల్ల పుట్టబోయే బిడ్డకి ఏమైనా సమస్య వస్తుందా?,Will this cause any problem to the unborn child?
+377,377,నిన్న రాత్రి తిన్నా ఆహారం ఈ రోజు morning వాంతులు అవుతున్నాయి.,నిన్న రాత్రి తిన్నా ఆహారం ఈ రోజు ఉదయం వాంతులు అవుతున్నాయి.,The food eaten last night is vomiting this morning.
+378,378,back side నొప్పి ఉంటుంది.,వెనుక వైపు నొప్పి ఉంటుంది.,There is pain in the back.
+379,379,glucose ఎక్కించారు.,గ్లూకోజ్ ఎక్కించారు.,Glucose was added.
+380,380,అప్పుడప్పుడు left side chestలో painగా ఉంటుంది.,అప్పుడప్పుడు ఎడమ వైపు ఛాతీలో నొప్పిగా ఉంటుంది.,Occasionally there is pain in the left side of the chest.
+381,381,chest ముందు భాగంలో నొప్పి ఎక్కువగా ఉండేది.,ఛాతీ ముందు భాగంలో నొప్పి ఎక్కువగా ఉండేది.,The pain was more in the front of the chest.
+382,382,ది తిన్నా కూడా bathroom కి వెళ్లాల్సి వస్తుంది.,ది తిన్నా కూడా బాత్రూమ్ కి వెళ్లాల్సి వస్తుంది.,The Tinna also has to go to the bathroom.
+383,383,vomitings విరోచనాలు కూడా ఉన్నాయి.,వాంతులు విరోచనాలు కూడా ఉన్నాయి.,Vomiting is also present.
+384,384,ఇంకా washroom కి వెళ్లాల్సి వస్తుంది.,ఇంకా వాష్‌రూమ్ కి వెళ్లాల్సి వస్తుంది.,Still have to go to the washroom.
+385,385,20 days నుంచి chest లో pain వస్తుంది.,20 రోజుల నుంచి ఛాతీలో నొప్పి వస్తుంది.,Chest pain from 20 days.
+386,386,heart problems ఏం లేవు.,గుండె సమస్యలు ఏం లేవు.,No heart problems.
+387,387,dr ని consult చేస్తే dyspepsia అన్నారు.,dr ని సంప్రదిస్తే చేస్తే అజీర్తి అన్నారు.,Ajirti said if you contact dr.
+388,388,ప్రతీ నెలలో 2 3 రోజులు digestion సమస్య వస్తుంది.,ప్రతీ నెలలో 2 3 రోజులు జీర్ణక్రియ సమస్య వస్తుంది.,Every month 2-3 days of digestion problem.
+389,389,నాకు ఈమధ్య కడుపు నొప్పి వచ్చినప్పుడు endoscopy test చేసి acid refulx ఉంది అని చెప్పారు.,నాకు మధ్య కడుపు నొప్పి వచ్చినప్పుడు ఎండోస్కోపీ పరీక్ష చేసి యాసిడ్ రిఫ్లక్స్ అని చెప్పారు.,"When I got pain in the middle stomach, they did an endoscopy test and said it was acid reflux."
+390,390,అలాగే acidity problem ఉంది.,అలాగే అసిడిటీ సమస్య ఉంది.,Also there is the problem of acidity.
+391,391,tablets ఇచ్చారు.,మాత్రలు ఇచ్చారు.,Pills were given.
+392,392,dr గారు నాకు gastric సమస్య ఉంది.,dr గారు నాకు గ్యాస్ట్రిక్ సమస్య ఉంది.,Dr. I have gastric problem.
+393,393,"dr ని consult చేస్తే medicines, tonic ఇచ్చారు కానీ ఎలాంటి ఫలితం లేదు.","dr ని సంప్రదిస్తే చేస్తే మందులు, టానిక్ ఇచ్చారు కానీ ఎలాంటి ఫలితం లేదు.","After consulting the dr, he gave medicine and tonic but there was no result."
+394,394,swellingగా అనిపిస్తుంది.,వాపుగా అనిపిస్తుంది.,Feels swollen.
+395,395,ఈ సమస్యను acid reflux సమస్య అంటారని net లో చదివాను.,ఈ సమస్యను ఆసిడ్ రిఫ్లక్స్ సమస్య అంటారని అంతర్జాలం లో చదివాను.,I read on the internet that this problem is called acid reflux problem.
+396,396,అలాగే acid కూడా form అవుతుంది.,అలాగే యాసిడ్ కూడా రూపం అవుతుంది.,Acid is also formed.
+397,397,tea తాగినా ఇలానే ఉంటుంది.,టీ తాగినా ఇలానే ఉంటుంది.,Drinking tea is the same.
+398,398,గత 2 years నుంచి acute gastritis తో బాధపడుతున్నాను.,గత 2 సంవత్సరాల నుంచి తీవ్రమైన పొట్టలో పుండ్లు తో బాధపడుతున్నాను.,I am suffering from severe gastritis since last 2 years.
+399,399,అలాగే 2.5 years నుంచి bp కూడా ఉంది.,అలాగే 2.5 సంవత్సరాల నుంచి bp కూడా ఉంది.,Also has bp since 2.5 years.
+400,400,వీటికి నేను dr prescribe చేసిన మందులే వాడుతున్నాను.,వీటికి నేను మందులు వాడుతున్నాను.,I am taking medicine for this.
+401,401,నేను spicy food కూడా తినను.,నేను కారమైన ఆహరం కూడా తినను.,I also don't eat spicy food.
+402,402,నాకు antral gastric సమస్య ఉంది.,నాకు యాంట్రల్ గ్యాస్ట్రిక్ సమస్య ఉంది.,I have antral gastric problem.
+403,403,6 months నుంచి medicines వాడుతున్నాను.,6 నెలల నుంచి మందులు వాడుతున్నాను.,I have been using medicine since 6 months.
+404,404,early morning వేసుకోవాల్సి వస్తుంది.,ఉదయాన్నే వేసుకోవాల్సి వస్తుంది.,You have to wear it in the morning.
+405,405,వేసుకోకపోతే pain వస్తుంది.,వేసుకోకపోతే నొప్పి వస్తుంది.,"If you don't wear it, it hurts."
+406,406,tablets శాశ్వతంగా వాడాల్సిందేనా?,మాత్రలు శాశ్వతంగా వాడాల్సిందేనా?,Do pills have to be used forever?
+407,407,acidity gas problem అనేది heart కి ముప్పు కలుగుతుందని విన్నాం.,అసిడిటీ గ్యాస్ సమస్య అనేది గుండె కి ముప్పు కలుగుతుందని విన్నాం.,We have heard that acidity gas problem is a threat to the heart.
+408,408,నాకు తరచూ chest pain వస్తుంది.,నాకు తరచుగా ఛాతీ నొప్పి వస్తుంది.,I often get chest pain.
+409,409,dr గారిని consult చేశాను.,dr గారిని కన్సల్ట్ చేశాను.,I consulted Dr.
+410,410,ecg తీశారు.,ecg తీశారు.,An ecg was taken.
+411,411,"కొంచెం heart burn, acidiy కూడా ఉంది.","కొంచెం గుండె మంట, ఆమ్లత్వం కూడా ఉంది.",There is a little heartburn and acidity too.
+412,412,dr గారు refulx problem ఉంది అని అన్నారు.,dr గారు రిఫ్లక్స్ సమస్య ఉంది అని అన్నారు.,Dr said that there is reflux problem.
+413,413,dr ని సంప్రదిస్తే mild gastritis సమస్య ఉంది అన్నారు.,dr ని సంప్రదిస్తే తేలికపాటి పొట్టలో పుండ్లు సమస్య ఉంది అన్నారు.,On contacting the dr he said that there is a problem of mild stomach ulcer.
+414,414,తినేటప్పుడు ప్రయాణాలు చేసినప్పుడు tensionగా ఉంటుంది.,తినేటప్పుడు ప్రయాణాలు చేసినప్పుడు ఉద్రిక్తతగా ఉంటుంది.,Tenses when traveling while eating.
+415,415,vomitings అవుతున్నాయి.,వాంతులు అవుతున్నాయి.,Vomiting.
+416,416,గుండెకు సంబంధించిన test చేయించాను.,గుండెకు సంబంధించిన పరీక్ష చేయించాను.,I did a heart test.
+417,417,అన్ని normal అని వచ్చాయి.,అన్ని సాధారణ అని వచ్చాయి.,Everything turned out to be normal.
+418,418,sir నాకు తిన్నాతరువాత food pipeలో అన్నం వచ్చినట్లు అయి almost గొంతు వరకు వచ్చినట్లు ఉంది.,సార్ నాకు తిన్నతరువాత ఫుడ్ పైపులో అన్నం వచ్చినట్లు దాదాపుగా గొంతు వరకు వచ్చినట్లు ఉంది.,"Sir, after eating I feel like rice has come in the food pipe almost up to my throat."
+419,419,"almost గొంతువరకు వచ్చి, full food pipe మంటగా ఉంటది.","దాదాపు గొంతువరకు వచ్చి, ఫుల్ ఫుడ్ పైపు మంటగా ఉంటది.","Almost up to the throat, the full food pipe was burning."
+420,420,తిన్నాతరువాత నేను పడుకునే timeలో suddenga నిద్ర రావడం లేదు.,తిన్నతరువాత నేను పడుకునే టైమ్‌లో హఠాత్తుగా నిద్ర రావడం లేదు.,After eating I do not suddenly fall asleep at bedtime.
+421,421,దగ్గు start అవుతుంది.,దగ్గు ప్రారంభం అవుతుంది.,Coughing starts.
+422,422,"కూర్చోవాలి, తరువాతa glass నీళ్లు తాగిన తర్వాత కడుపు మంట తగ్గుతుంది.","కూర్చోవాలి, తరువాత గాజు నీళ్లు తాగిన తర్వాత కడుపు మంట తగ్గుతుంది.","Sit down, then drink a glass of water to reduce heartburn."
+423,423,నాకు thyroid సమస్య ఉంది.,నాకు థైరాయిడ్ సమస్య ఉంది.,I have thyroid problem.
+424,424,gas సమస్య కూడా ఉంది.,గ్యాస్ సమస్య కూడా ఉంది.,There is also the problem of gas.
+425,425,thyroid కి recentగా surgery కూడా చేయించుకున్నాను.,థైరాయిడ్ కి ఇటీవల సర్జరీ కూడా చేయించుకున్నాను.,I have also recently undergone thyroid surgery.
+426,426,బహుశా దానివల్లే gas పెరిగిందని అనుకుంటున్నాను.,బహుశా దానివల్లే గ్యాస్ పెరిగిందని అనుకుంటున్నాను. ,I think maybe that's why the gas increased.
+427,427,మా నాన్నగారు తిన్నా తరువాత vomiting చేసుకుంటున్నారు.,మా నాన్నగారు తిన్నా తరువాత వాంతి చేస్తున్నారు.,My father is vomiting after eating.
+428,428,అప్పుడప్పుడు juice లాంటిది నోట్లో వచ్చినట్లు అనిపిస్తుంది.,అప్పుడప్పుడు రసం లాంటిది నోట్లో వచ్చినట్లు అనిపిస్తుంది.,Sometimes it feels like juice in the mouth.
+429,429,నేను drink చేస్తాను కానీ ఎక్కువగా కాదు.,నేను తాగుతాను కానీ ఎక్కువగా కాదు.,I drink but not too much.
+430,430,medicines వాడినా తగ్గడం లేదు.,మందులు వాడినా తగ్గడం లేదు.,Medicines are not reducing.
+431,431,దానితో పాటు విపరీతంగా gas release అయితుంది.,దానితో పాటు విపరీతంగా గ్యాస్ విడుదల అవుతుంది.,"Along with it, gas is released tremendously."
+432,432,ఆయన పూర్తిగా vegetarian.,ఆయన పూర్తిగా శాఖాహారం.,He is a complete vegetarian.
+433,433,ఉదయం లేవగానే tea తాగుతాను.,ఉదయం లేవగానే టీ తాగుతాను.,I drink tea when I wake up in the morning.
+434,434,దీని వల్లనే ఏమో నాకు gas problem ఎక్కువగా ఉంటుంది.,దీని వల్లనే ఏమో నాకు గ్యాస్ సమస్య ఎక్కువగా ఉంటుంది.,This is why I get gas problem a lot.
+435,435,ఏమైనా తింటే ఈ pain ఇంకా ఎక్కువ ఉంటుంది.,ఏమైనా తింటే ఈ నొప్పి ఇంకా ఎక్కువ ఉంటుంది.,"If you eat anything, this pain will be worse."
+436,436,నాకు anal దగ్గర skin మందంగా అనిపిస్తుంది.,నాకు అంగ దగ్గర చర్మం మందంగా అనిపిస్తుంది.,I feel thick skin near my anus.
+437,437,dr కి చూపిస్తే extra skin వచ్చిందన్నారు.,dr కి చూపిస్తే అదనపు చర్మం వచ్చిందన్నారు.,"If you show it to the dr, you will get extra skin."
+438,438,చాలా కాలంగా gas trouble సమస్యతో బాధపడుతున్నాను.,చాలా కాలంగా గ్యాస్ ట్రబుల్ సమస్యతో బాధపడుతున్నాను.,I have been suffering from gas problem for a long time.
+439,439,గతంలో 3 4 times dr దగ్గర చూపించుకున్నాను.,గతంలో 3 4 సార్లు dr దగ్గర చూపించుకున్నాను.,I have seen dr 3 or 4 times in the past.
+440,440,ఇప్పుడు 1 year నుంచి కడుపు నొప్పి.,ఇప్పుడు 1 సంవత్సరం నుంచి కడుపు నొప్పి.,Abdominal pain since 1 year now.
+441,441,normalగా ఉండే వాళ్ళ కంటే diabetes ఉన్న వాళ్ళలో నోటి దుర్వాసన ఎక్కువ అని విన్నాను.,మామూలుగా ఉండే వాళ్ళ కంటే డయాబెటిస్ ఉన్న వాళ్ళలో నోటి దుర్వాసన ఎక్కువ అని విన్నాను.,I have heard that people with diabetes have more bad breath than normal people.
+442,442,రోజు నాకు tea కానీ coffee కానీ తాగినప్పుడు వెంటనే motion కి వెళ్లాల్సి వస్తుంది.,రోజు నాకు టీ కానీ కాఫీ కానీ తాగినప్పుడు వెంటనే విరోచనా కి వెళ్లాల్సి వస్తుంది.,"When I drink tea or coffee during the day, I immediately have to go to Virochana."
+443,443,gas form అవుతుంది.,వాయువు రూపం అవుతుంది.,It becomes a gas.
+444,444,"hypertension, sugar, thyroid, high cholestrol ఉన్నాయి.","రక్తపోటు, చక్కెర, థైరాయిడ్, అధిక కొలెస్ట్రాల్ ఉన్నాయి.","Blood pressure, sugar, thyroid, high cholesterol."
+445,445,stress వలన gastric సమస్యలు వస్తాయా?,ఒత్తిడి వలన గ్యాస్ట్రిక్ సమస్యలు వస్తాయా?,Can stress cause gastric problems?
+446,446,నాకు 3 years నుంచి gas problem ఉంది.,నాకు 3 సంవత్సరాల నుంచి గ్యాస్ సమస్య ఉంది.,I have gas problem since 3 years.
+447,447,దానికోసం tablets వాడుతున్నాను.,దానికోసం మాత్రలు వాడుతున్నాను.,I am using pills for that.
+448,448,ఈ tablet వాడినప్పుడు gas బాగానే పెరుగుతుంది.,ఈ టాబ్లెట్ వాడినప్పుడు గ్యాస్ బాగా పెరుగుతుంది.,Gas increases greatly when using this tablet.
+449,449,"నేను రోజులో 2,3 times motions కి వెళ్తాను.","నేను రోజులో 2,3 సార్లు విరోచనాలకి వెళ్తాను.",I go to Virochanala 2-3 times a day.
+450,450,చెప్పమ్మా ఏం problem?,చెప్పమ్మా ఏం సమస్య?,"Tell me, what's the problem?"
+451,451,15 days అయితుంది.,15 రోజులు అయితుంది.,It will be 15 days.
+452,452,sugar ఉందా?,చక్కెర ఉందా?,Is there sugar?
+453,453,పెళ్లి అయి ఎన్ని months?,పెళ్లి అయి ఎన్ని నెలలు?,How many months have you been married?
+454,454,regular cycles ఏ ఉంటాయా?,రెగ్యులర్ సైకిల్స్ ఏ ఉంటాయా?,What are regular cycles?
+455,455,1 month 15 daysకి లేదా 2 monthsకి ఒకసారి.,1 నెల 15 రోజులకి లేదా 2 నెలలకి ఒకసారి.,1 month 15 days or once in 2 months.
+456,456,సాధారణంగా pregnancy time లో rest తీసుకోవాలని అంటారు.,సాధారణంగా గర్భధారణ సమయం లో విశ్రాంతి తీసుకోవాలని అంటారు.,It is generally said to take rest during pregnancy.
+457,457,ఏ time లో ఎంత సేపు rest తీసుకోవాలి.,ఏ సమయంలో ఎంతసేపు విశ్రాంతి తీసుకోవాలి.,How long should you rest at any time?
+458,458,ఎక్కువ సేపు rest తీసుకోవడం వలన delivery లో problem ఆ?,ఎక్కువ సేపు విశ్రాంతి తీసుకోవడం వలన డెలివరీలో సమస్య ఉందా?,Is taking too long a delivery a problem?
+459,459,నాకు ఇప్పుడు 2 months అయింది pregnancy వచ్చి.,నాకు ఇప్పుడు 2 నెలల గర్భం వచ్చింది.,I am now 2 months pregnant.
+460,460,spotting అయితుంది.,స్పాటింగ్ అయితుంది.,Spotting is done.
+461,461,already 2 abortions అయ్యాయి.,ఇప్పటికే 2 అబార్షన్లు అయ్యాయి.,Already had 2 abortions.
+462,462,ఇప్పుడు మళ్లీ pregnancy వచ్చింది,ఇప్పుడు మళ్లీ గర్భం వచ్చింది,Now pregnant again
+463,463,pregnancy వచ్చి 5 weeks అయింది.,గర్భం వచ్చి 5 వారాలు అయింది.,5 weeks pregnant.
+464,464,"నాకు 3వ month, bp ఎక్కువ తక్కువ అవుతుంది.","నాకు 3వ నెల, bp ఎక్కువ తక్కువ అవుతుంది.","3rd month for me, bp keeps getting low."
+465,465,urine test చేసుకుంటే positive వచ్చింది.,మూత్ర పరీక్ష చేసుకుంటే పాజిటివ్ వచ్చింది.,A urine test was positive.
+466,466,bed rest తీసుకోమన్నారు,పడక విశ్రాంతి తీసుకోమన్నారు,Bed rest
+467,467,15 days తర్వాత scanning చేస్తే నువ్వు pregnant కాదు అన్నారు.,15 రోజుల తర్వాత స్కానింగ్ చేస్తే నువ్వు గర్భవతి కాదు అన్నారు.,They said if you scan after 15 days you are not pregnant.
+468,468,pregnancy కోసం ఏం tablets వాడాలి,గర్భం కోసం ఏం మాత్రలు వాడాలి,What pills should be used for pregnancy?
+469,469,ఎటువంటి test చేయించుకోవాలి.,ఎటువంటి పరీక్ష చేయించుకోవాలి.,No test should be done.
+470,470,10 to 15 minutes ఉంది వెళ్లిపోతుంది.,10 నుండి 15 నిమిషాల వరకు వెళ్లిపోతుంది.,It will take 10 to 15 minutes.
+471,471,multivitamins tablets వాడుతున్నాను.,మల్టీవిటమిన్లు మాత్రలు వాడుతున్నాను.,I am using multivitamin tablets.
+472,472,migranes ఉన్నాయి.,మైగ్రేన్లు ఉన్నాయి.,There are migraines.
+473,473,నా heart beat fast గా ఉంటుంది.,నా గుండె వేగంగా కొట్టుకుంటుంది.,My heart beats fast.
+474,474,సాధారణ పరీక్షలలో hepatitis B ఉందని నిర్ధారణ అయింది.,సాధారణ పరీక్షలలో హెపటైటిస్ బి నిర్ధారణ అయింది.,Hepatitis B was diagnosed on routine tests.
+475,475,దీనికి ఎలాంటి therapy ఉంటుంది?,దీనికి ఎలాంటి చికిత్స ఉంటుంది?,What is the treatment for this?
+476,476,pregnancy timeలో bp sugar పెరుగుతుంది.,గర్భధారణ సమయంలో బీపీ షుగర్ పెరుగుతుంది.,BP sugar increases during pregnancy.
+477,477,pregnancy time లో urinary tract infections వస్తున్నాయి.,గర్భధారణ సమయంలో మూత్ర మార్గము అంటువ్యాధులు వస్తున్నాయి.,Urinary tract infections during pregnancy.
+478,478,మాకు పెళ్ళయి 10 years అయితుంది.,మాకు పెళ్ళయి 10 సంవత్సరాలు అయితుంది.,We have been married for 10 years.
+479,479,ఎలాంటి precaution లేకుండా ఉన్నాము.,ఎలాంటి ముందు జాగ్రత్త లేకుండా ఉన్నాము.,We are without any precautions.
+480,480,ఇప్పుడు తను pregnant.,ఇప్పుడు తను గర్భవతి.,Now she is pregnant.
+481,481,immediateగా pregnancyని ఆపేయాలి అంటే వీలవుతుందా?,వెంటనే గర్భాన్ని ఆపేయాలి అంటే వీలవుతుందా?,Is it possible to terminate the pregnancy immediately?
+482,482,నేను 8 months pregnant.,నేను 8 నెలల గర్భవతి.,I am 8 months pregnant.
+483,483,dr ని కలిస్తే thyroid ఉంది అని అన్నారు.,dr ని కలిస్తే థైరాయిడ్ ఉంది అని అన్నారు.,"If you meet the dr, he said that he has thyroid."
+484,484,medicines వాడుతున్నాను.,మందులు వాడుతున్నాను.,I am using medicine.
+485,485,medicines వాడడం వల్ల baby కి ఏమైనా problem ఆ?,మందులు వాడడం వల్ల శిశువు కి ఏమైనా సమస్య ఆ?,Is there any problem for the baby due to the use of medicines?
+486,486,నేను 2 months pregnant.,నేను 2 నెలల గర్భవతి.,I am 2 months pregnant.
+487,487,pregnant ఉన్నప్పుడు ఎలాంటి జాగ్రత్తలు తీసుకోవాలి?,గర్భవతిగా ఉన్నప్పుడు ఎలాంటి జాగ్రత్తలు తీసుకోవాలి?,What precautions should be taken while pregnant?
+488,488,నాకు caesarean అంటే ఇష్టం లేదు.,నాకు సిజేరియన్ అంటే ఇష్టం లేదు.,I don't want a cesarean.
+489,489,normal delivery కోసం ఏం చేయాలి?,సాధారణ ప్రసవం కోసం ఏం చేయాలి?,What to do for normal delivery?
+490,490,pregnancy time లో chicken pox వస్తే పుట్టే బిడ్డ పై ఎలాంటి ప్రభావం ఉంటుంది.,గర్భం సమయంలో చికెన్ పాక్స్ వస్తే పుట్టే బిడ్డ పై ఎలాంటి ప్రభావం ఉంటుంది.,What are the effects of chicken pox during pregnancy on the unborn child?
+491,491,ఎందుకు ఈ problem వస్తుంది.,ఎందుకు ఈ సమస్య వస్తుంది.,Why this problem occurs.
+492,492,దీనివల్ల ఏమైనా futureలో problems ఉంటాయా?,దీనివల్ల ఏమైనా భవిష్యత్తులో సమస్యలు ఉంటాయా?,Will this cause any future problems?
+493,493,పెళ్ళయి 2 years అయితుంది.,పెళ్ళయి 2 సంవత్సరాలు అయితుంది.,Married for 2 years.
+494,494,వెంటనే pregnancy వచ్చింది.,వెంటనే గర్భం వచ్చింది.,She got pregnant soon.
+495,495,problems వల్ల abortion చేయించుకున్నాను.,సమస్యలు వల్ల అబార్షన్ చేయించుకున్నాను.,I had an abortion due to complications.
+496,496,ఇప్పుడు pregnancy కోసం try చేస్తున్నాను.,ఇప్పుడు గర్భం కోసం ప్రయత్నించండి.,Try to conceive now.
+497,497,tablets వాడుతున్నాను.,మాత్రలు వాడుతున్నాను.,I am using pills.
+498,498,3 months అయింది.,3 నెలలు అయింది.,It's been 3 months.
+499,499,chance ఉందంటారా?,అవకాశం ఉందంటారా?,Is there a chance?
+500,500,నేను 2 months pregnant గా ఉన్నప్పుడు bleeding అయింది.,నేను 2 నెలల గర్భవతిగా ఉన్నప్పుడు రక్తస్రావం అయింది.,I bled when I was 2 months pregnant.
+501,501,"ఆపటానికి tablets, injections, ఇచ్చారు.","ఆపటానికి మాత్రలు, ఇంజక్షన్లు, ఇచ్చారు.","Pills, injections, were given to stop."
+502,502,scanning చేసి growth లేదని చెప్పారు.,స్కానింగ్ చేసి పెరుగుదల లేదని చెప్పారు.,Scanned and said no increase.
+503,503,periods రావడానికి medicines ఇస్తానని doctor గారు చెప్పారు.,పీరియడ్స్ రావడానికి మందులు ఇస్తానని డాక్టర్ గారు చెప్పారు.,The doctor said that he will give me medicine to get periods.
+504,504,heart beat చాలా fastగా కొట్టుకుంటుంది.,గుండె కొట్టుకోవడం చాలా వేగంగా కొట్టుకుంటుంది.,The heart beats very fast.
+505,505,2d echo అలాగే ultrasound test చేయించుకున్నాము అంతా normalగానే ఉంది.,2d ప్రతిధ్వని అలాగే అల్ట్రాసౌండ్ పరీక్ష చేయించుకున్నాము అంతా మామూలుగానే ఉంది.,We did 2d echo as well as ultrasound examination and everything was normal.
+506,506,ఏదైనా food తీసుకున్నప్పుడు heart beat ఎకువ ఐతుంది కడుపు కుడివైపు పైభాగంలో నొప్పి ఎక్కువగా ఉంది.,ఏదైనా ఆహారం తీసుకున్నప్పుడు గుండె కొట్టుకోవడం ఎకువ ఐతుంది కడుపు కుడివైపు పైభాగంలో నొప్పి ఎక్కువగా ఉంటుంది.,Palpitation increases when taking any food Pain in upper right side of stomach is worse.
+507,507,ఆ నొప్పి backbone కి పాకుతుంది.,ఆ నొప్పి వెన్నెముక కి పాకుతుంది.,That pain creeps up the spine.
+508,508,నాకు పాప పుట్టిన 4 month కి నాకు tb attack అయింది.,నాకు పాప పుట్టిన 4 నెలల కి నాకు tb దాడి అయింది.,4 months after my baby was born I got TB attack.
+509,509,lungs కి hole పడింది.,ఊపిరితిత్తులు కి రంధ్రం పడింది.,There was a hole in the lung.
+510,510,1st పాపకి ఇప్పుడు 13 months తేడా ఉంది.,1వ పాపకి ఇప్పుడు 13 నెలల తేడా ఉంది.,1st baby now 13 months apart.
+511,511,ఇలా అవడం వల్ల ఏమైనా problems వస్తాయా?,ఇలా అవడం వల్ల ఏమైనా సమస్యలు వస్తాయా?,Does this cause any problems?
+512,512,నాకు ఇప్పుడే thyroid ఉందని తెలిసింది.,నాకు ఇప్పుడే థైరాయిడ్ ఉందని తెలిసింది.,I just found out I have thyroid.
+513,513,delivery తర్వాత thyroid తగ్గుతుందా?,డెలివరీ తర్వాత థైరాయిడ్ తగ్గుతుందా?,Does the thyroid go down after delivery?
+514,514,thyroid ఉంటే pregnancyకి problem ఆ?,థైరాయిడ్ ఉంటే గర్భానికి సమస్య ఉందా?,Is pregnancy a problem if you have thyroid?
+515,515,thyroid test చేయించుకుంటే state 6 అని వచ్చింది.,థైరాయిడ్ టెస్ట్ చేయించుకుంటే స్టేట్ 6 వచ్చింది.,Thyroid test showed state 6.
+516,516,thyroid problem ఉంది.,థైరాయిడ్ సమస్య ఉంది.,There is a thyroid problem.
+517,517,కానీ reports అన్ని positive గానే వచ్చాయి.,కానీ అన్ని పాజిటివ్ గానే రిపోర్ట్స్ వచ్చాయి.,But all the reports were positive.
+518,518,general checkup లో thyroid problem ఉందని చెప్పారు.,జనరల్ చెకప్ లో థైరాయిడ్ సమస్య ఉందని చెప్పారు.,"In the general checkup, he was told that there is a thyroid problem."
+519,519,ultrasound scan చేస్తే kidney లో stones ఉన్నాయి అని చెప్పారు.,అల్ట్రాసౌండ్ స్కాన్ చేస్తే కిడ్నీలో రాళ్లు ఉన్నాయని చెప్పారు.,An ultrasound scan revealed kidney stones.
+520,520,అప్పుడప్పుడూ pain కూడా ఉంటుంది.,అప్పుడప్పుడూ నొప్పి కూడా ఉంటుంది.,Sometimes there is pain.
+521,521,pregnany లో kidney లో stones ఏమైనా ప్రమాదకరమా?,గర్భంలో కిడ్నీలో రాళ్లు ఏమైనా ప్రమాదకరమా?,Are kidney stones dangerous in pregnancy?
+522,522,నాకు test చేసినప్పుడు 2 tubes block అయి ఉంది అని చెప్పారు.,నాకు టెస్ట్ చేసినప్పుడు 2 ట్యూబ్స్ బ్లాక్ అయిందని చెప్పారు.,"When I was tested, I was told that 2 tubes were blocked."
+523,523,surgery చెసుకోవాలని doctor చెప్పారు.,సర్జరీ చేయించుకోవాలని డాక్టర్ చెప్పారు.,The doctor said to undergo surgery.
+524,524,baby healthy గా బాగానే ఉంది.,శిశువు ఆరోగ్యం గా బాగానే ఉంది.,The baby is in good health.
+525,525,ఇప్పుడు విపరీతంగా cold and cough ఉంది.,ఇప్పుడు జలుబు మరియు దగ్గు విపరీతంగా ఉంది.,Now the cold and cough are extreme.
+526,526,cold and cough ఎలా control చేసుకోవాలి.,జలుబు మరియు దగ్గు ఎలా నియంత్రించాలి.,How to control cold and cough.
+527,527,ఇలా కడుపు నొప్పి వలన baby కి ఏమైనా problems వస్తాయా?,ఇలా కడుపు నొప్పి వలన శిశువు కి ఏమైనా సమస్యలు వస్తాయా?,Does the baby have any problems due to stomach ache?
+528,528,ఏ stones ఉంటే baby కి ఏమైనా ఇబ్బంది ఉంటుందా?,ఏ రాళ్లు ఉంటే బేబీకి ఏమైనా ఇబ్బంది ఉంటుందా?,Will there be any problems for the baby if there are any stones?
+529,529,ఎలాంటి conditions లో నేను ఏ stones తీసుకోవాలి?,ఎలాంటి పరిస్థితులు లో నేను ఏ రాళ్ళు తీసుకోవాలి?,What stones should I take under what circumstances?
+530,530,pneumonia ఉంటే pregnancy లో ఏమైనా problems ఉంటాయా?,న్యుమోనియా ఉంటే గర్భం లో ఏమైనా సమస్యలు ఉంటాయా?,Are there any problems in pregnancy if pneumonia?
+531,531,motions కి వెళ్లేటప్పుడు ఇబ్బంది అయితుంది.,విరోచనాలు కి వెళ్లేటప్పుడు ఇబ్బంది అయితుంది.,There will be trouble when going to Virochanas.
+532,532,పరీక్ష చేయిస్తే piles ఉన్నాయి అని అన్నారు.,పరీక్ష చేయిస్తే పైల్స్ ఉన్నాయి అని అన్నారు.,"He said that if the test is done, there are piles."
+533,533,delivery తర్వాత piles తగ్గుతాయా?,డెలివరీ తర్వాత పైల్స్ తగ్గుతాయా?,Will the piles decrease after delivery?
+534,534,pregnancy లో bleeding అలాగే fits వస్తున్నాయి .,గర్భం లో రక్తస్రావం అలాగే ఫిట్స్ వస్తున్నాయి .,Bleeding in pregnancy as well as fits.
+535,535,delivery అయ్యాక నేను babyకి పాలు ఇవ్వవచ్చా?,డెలివరీ అయ్యాక నేను బేబీకి పాలు ఇవ్వవచ్చా?,Can I breastfeed my baby after delivery?
+536,536,దీనివల్ల baby కి ఏమైనా problem ఉందా?,దీనివల్ల శిశువు కి ఏమైనా సమస్య ఉందా?,Does this cause any problems for the baby?
+537,537,next babyకి gap తీసుకోవాలి అని అనుకుంటున్నాం.,తదుపరి శిశువుకి గ్యాప్ తీసుకోవాలి అని అనుకుంటున్నాను.,I think we should take a gap for the next baby.
+538,538,pregnancy లో తల్లి కి jaundice వస్తే పిల్లలకు కూడా affect అయితుందా?,గర్భం లో తల్లి కి కామెర్లు వస్తే పిల్లలకు కూడా ప్రభావితం అయితుందా?,"If the mother gets jaundice during pregnancy, will the child also be affected?"
+539,539,pregnancy లో jaundice ఎందుకు వస్తుంది?,గర్భం లో కామెర్లు ఎందుకు వస్తుంది?,Why does jaundice occur in pregnancy?
+540,540,doctor కి చూపిస్తే cancer గడ్డలు లాగా ఉన్నాయి అని చెప్పారు.,డాక్టర్ కి చూపిస్తే క్యాన్సర్ గడ్డలు లాగా ఉన్నాయని చెప్పారు.,"If you show it to the doctor, they say it looks like cancerous lumps."
+541,541,వాంతులు starting 3 months.,వాంతులు 3 నెలలు ప్రారంభమవుతాయి.,Vomiting starts at 3 months.
+542,542,4 years కింద normal delivery అయ్యే సమయంలో gallbladderలో stones ఉన్నాయని operation చేశారు.,4 సంవత్సరాల కింద సాధారణ ప్రసవం అయ్యే సమయంలో పిత్తాశయంలో రాళ్లు ఉన్నాయని ఆపరేషన్ చేశారు.,Gallstones were operated on during normal delivery under 4 years.
+543,543,ఈసారి normal delivery అయ్యే chances ఉన్నాయా?,ఈసారి నార్మల్ డెలివరీ అయ్యే అవకాశాలు ఉన్నాయా?,Any chance of normal delivery this time?
+544,544,ultrasound scan చేస్తే baby brain లో నీటి బుడగగా ఉంది అని చెప్పారు.,అల్ట్రాసౌండ్ స్కాన్ చేస్తే బేబీ బ్రెయిన్‌లో నీటి బుడగగా ఉందని చెప్పారు.,An ultrasound scan revealed a water bubble in the baby's brain.
+545,545,pregnancy continue చేయొచ్చా?,గర్భం కొనసాగుతుందా?,Will the pregnancy continue?
+546,546,నేను ఈమధ్య conceive అయ్యాను,నేను ఈమధ్య గర్భం దాల్చాను,I recently got pregnant
+547,547,కానీ sugar test చేయించుకుంటే positive వచ్చింది.,కానీ షుగర్ టెస్ట్ చేయించుకుంటే పాజిటివ్ వచ్చింది.,But the sugar test was positive.
+548,548,pregnancyలో gall bladder stones వలన stomach pain వచ్చింది.,ప్రెగ్నెన్సీ పిత్తాశయంలో రాళ్లు రావడం వల్ల కడుపు నొప్పి వచ్చింది.,Stomach ache due to pregnancy gallstones.
+549,549,doctor surgery చేయించుకో అన్నారు.,డాక్టర్ సర్జరీ చేయించుకో అన్నారు.,The doctor said to do the surgery.
+550,550,దీనివల్ల next pregnancyకి problem ఆ?,దీనివల్ల తదుపరి గర్భానికి సమస్య ఆ?,Is this a problem for the next pregnancy?
+551,551,నాకు problem ఏమిటంటే నాకు pregnancy time లో left leg swelling వస్తుంది.,నాకు సమస్య నాకు గర్భం సమయం లో ఎడమ కాలు వాపు వస్తుంది.,My problem is that I get swelling in my left leg during pregnancy.
+552,552,నాకు అన్ని tests normalగానే వచ్చాయి.,నాకు అన్ని పరీక్షలు మామూలుగానే వచ్చాయి.,All my tests came back normal.
+553,553,as usualగా మల్లా left leg swelling వచ్చింది.,సాధారణంగా మల్ల ఎడమ కాలు వాపు వచ్చింది.,Usually the left leg is swollen.
+554,554,ఇప్పుడు 2nd pregnancy వచ్చింది.,ఇప్పుడు 2వ గర్భం వచ్చింది.,2nd pregnancy now.
+555,555,general checkupలో acute kidney fail అని తెలిసింది.,జనరల్ చెకప్‌లో అక్యూట్ కిడ్నీ ఫెయిల్ అని తెలిసింది.,Acute kidney failure was found during general checkup.
+556,556,first trimister అయిన తర్వాత fits లాగా వచ్చింది.,మొదటి త్రైమాసికంలో అయిన తర్వాత సరిపోతుంది లాగా వచ్చింది.,After the first trimester it felt like enough.
+557,557,doctor నాకు fits మందులు వాడమన్నారు.,వైద్యుడు నాకు ఫిట్స్ మందులు వాడమన్నారు.,The doctor told me to use Fits medicine.
+558,558,ఇది baby కి ఏమైనా effect అవుతుందా?,ఇది శిశువు కి ఏమైనా ప్రభావం అవుతుందా?,Does it have any effect on the baby?
+559,559,చిన్నప్పటి నుంచి asthama ఉంది.,చిన్నప్పటి నుంచి ఉబ్బసం ఉంది.,Asthma since childhood.
+560,560,medicines వాడుతున్నాను ఈ మధ్యనే నాకు పెళ్లి అయ్యింది.,మందులు వాడుతున్నాను ఈ మధ్యనే నాకు పెళ్లి అయ్యింది.,I am on medication and recently got married.
+561,561,cancer screening test చేయించమన్నారు.,క్యాన్సర్ స్క్రీనింగ్ టెస్ట్ చేయించమన్నారు.,Cancer screening test is done.
+562,562,ఆ చిగుళ్ల problem కి ఏమైనా problem ఉంటుందా?,ఆ చిగుళ్ల సమస్యకి ఏమైనా సమస్య ఉంటుందా?,Is there any problem with those gum problems?
+563,563,pregnancy confirm అయినప్పుడు lightగా bleeding వస్తుంది.,గర్భధారణ నిర్ధారణ అయినప్పుడు తేలికపాటి రక్తస్రావం వస్తుంది.,Light bleeding occurs when pregnancy is diagnosed.
+564,564,ivf పాప ఉంది.,ivf పాప ఉంది.,Have an ivf baby.
+565,565,ఇంతవరకూ success లేదు.,ఇంతవరకూ విజయం లేదు.,No success so far.
+566,566,recentగా semen analysis చేయిస్తే hormonal imbalance అని చెప్పారు.,ఇటీవలే వీర్యం విశ్లేషణ చేయిస్తే హార్మోన్ల అసమతుల్యతఅని చెప్పారు.,A recent semen analysis showed hormonal imbalance.
+567,567,laproscopy ద్వారా tubes clear అవుతాయా?,లాపరోస్కోపీ ద్వారా గొట్టాలు స్పష్టం అవుతాయా?,Can the tubes be clarified by laparoscopy?
+568,568,pcod సమస్య పెళ్లికి ముందు నుంచే ఉంది.,pcod సమస్య పెళ్లికి ముందు నుంచే ఉంది.,The pcod problem was there before marriage.
+569,569,tablets వేసుకుంటే periods వస్తున్నాయి.,మాత్రలు వేసుకుంటే పీరియడ్స్ వస్తున్నాయి.,Periods are coming if taking pills.
+570,570,పిల్లల కోసమని doctor దగ్గరకు వెళితే thyroid ఉందని తెలిసింది.,పిల్లల కోసమని డాక్టర్ దగ్గరకు వెళితే థైరాయిడ్ ఉందని తెలిసింది.,"If you go to the doctor for a child, you will know that it is thyroid."
+571,571,పిల్లల పుట్టే chance ఉందా లేదా?,పిల్లల పుట్టే అవకాశం ఉందా లేదా?,Is there a possibility of child birth or not?
+572,572,6 years నుంచి periods irregular గా వస్తున్నాయి .,6 సంవత్సరాల నుంచి పీరియడ్స్ అక్రమంగా వస్తున్నాయి .,Periods are coming irregularly since 6 years.
+573,573,ultrasound చేయిస్తే pcod normal గా ఉన్నాయి.,అల్ట్రాసౌండ్ చేయిస్తే pcod సాధారణం గా ఉన్నాయి.,PCOD is normal on ultrasound.
+574,574,నాకు pitutary gland లో microadenoma ఉంది.,నాకు పిట్యూటరీ గ్రంధిలో మైక్రోడెనోమా ఉంది.,I have a microadenoma in my pituitary gland.
+575,575,periods కూడా regular గా ఉంది.,పీరియడ్స్ కూడా రెగ్యులర్ గా ఉంది.,Periods are also regular.
+576,576,నాకు primary infertility problem ఉంది.,నాకు ప్రాధమిక వంధ్యత్వ సమస్య ఉంది.,I have primary infertility problem.
+577,577,నాకు general checkupలో fibroids ఉన్నాయని తెలిసింది.,నాకు సాధారణ చెకప్‌లో ఫైబ్రాయిడ్‌లు ఉన్నాయని తెలిసింది. ,I was diagnosed with fibroids during a routine checkup.
+578,578,3 months back x-ray తీసి అండాశయాల్లో నీటి బుడగలు ఉన్నాయి అన్నారు.,3 నెలల క్రితం x-ray తీసి అందాశయాల్లో నీటి బుడగలు ఉన్నాయి అన్నారు.,3 months ago x-ray was taken and they said there are water bubbles in the eye sockets.
+579,579,periods 2 months కి ఒకసారి 15 daysకి ఒకసారి వస్తుంది.,పీరియడ్స్ 2 నెలలు కి ఒకసారి 15 రోజులకి ఒకసారి వస్తుంది.,Periods occur once in 2 months and once in 15 days.
+580,580,medicines వాడి 3 years అయితుంది.,మందులు వాడి 3 సంవత్సరాలు అయితుంది.,It has been 3 years since I used the medicine.
+581,581,సాధారణంగా white discharge ఎందుకు అవుతుంది.,సాధారణంగా తెల్లటి ఉత్సర్గ ఎందుకు అవుతుంది.,Why is white discharge common?
+582,582,ఇది కాకుండా ఎలాంటి precautions తీసుకోవాలి?,ఇది కాకుండా ఎలాంటి జాగ్రత్తలు తీసుకోవాలి?,"Apart from this, what precautions should be taken?"
+583,583,నాకు periods మొదలయిన 4 days bleeding తక్కువగానే ఉంటుంది.,నాకు పీరియడ్స్ మొదలయిన 4 రోజుల రక్తస్రావం తక్కువగానే ఉంటుంది.,I have light bleeding for 4 days after my period starts.
+584,584,నేను ఎలాంటి tablets use చేయాలి.,నేను ఎలాంటి మాత్రలు వాడాలి.,What pills should I use?
+585,585,pregnancy కోసం plan చేస్తున్నాను.,గర్భం కోసం ప్లాన్ చేస్తున్నాను.,Planning for pregnancy.
+586,586,అలా date వచ్చిన ప్రతిసారి stomach pain వస్తుంది.,అలా తేదీ వచ్చిన ప్రతిసారి కడుపు నొప్పి వస్తుంది.,"Every time a date comes, I get a stomach ache."
+587,587,stomach pain తగ్గడానికి medicines వాడుతున్నాను.,కడుపు నొప్పి తగ్గడానికి మందులు వాడుతున్నాను.,I am taking medicine to relieve stomach pain.
+588,588,8th month లో baby చనిపోయింది.,8వ నెలలో పాప చనిపోయింది.,The baby died in the 8th month.
+589,589,నాకు abortion ముందు periods regular అయ్యేవి.,నాకు అబార్షన్ ముందు పీరియడ్స్ రెగ్యులర్ అయ్యేవి.,My periods were regular before the abortion.
+590,590,నాకు periods సరిగ్గా రావడం లేదు.,నాకు పీరియడ్స్ సరిగ్గా రావడం లేదు.,I am not getting my period properly.
+591,591,అంతా normal గానే ఉంది.,అంతా మామూలుగానే ఉంది.,Everything is normal.
+592,592,మా ఆయన తో కలిస్తే next day కడుపు నొప్పి urine bladder లో మంట గా ఉంటుంది.,మా ఆయన తో కలిస్తే తరువాతి రోజు కడుపు నొప్పి మూత్రాశయం లో మంట గా ఉంటుంది.,"If we meet with him, the next day stomach pain will be burning in the bladder."
+593,593,కళ్ళ దగ్గర బాగా itching ఉంటది.,కళ్ళ దగ్గర బాగా దురద ఉంటుంది.,The eyes are very itchy.
+594,594,daily ఉంటదా అప్పుడప్పుడా?,రోజూ ఉంటదా అప్పుడప్పుడా?,Is it daily or occasionally?
+595,595,sight వచ్చినట్లు ఉంది.,sight వచ్చినట్లు ఉంది.,The sight seems to have come.
+596,596,ఇంకా headache వస్తుంది.,ఇంకా తలనొప్పి వస్తుంది.,I still get headaches.
+597,597,ight ఉంది ఇంకా headache.,sight ఉంది ఇంకా తలనొప్పి.,There is sight and headache.
+598,598,headache ఉంది ఇంకా eyes లాగుతున్నట్లు ఉన్నాయి.,తలనొప్పి ఉంది ఇంకా కళ్ళు లాగుతున్నట్లు ఉన్నాయి.,There is a headache and the eyes are dragging.
+599,599,ఒక కంటికి operation అయింది.,ఒక కంటికి ఆపరేషన్ అయింది.,One eye was operated.
+600,600,ఇప్పుడు వేరే కంటి operation కోసం doctor రమ్మన్నాడు.,ఇప్పుడు వేరే కంటి ఆపరేషన్ కోసం డాక్టర్ రమ్మన్నాడు.,Now the doctor came for another eye operation.
+601,601,eyes మండుతున్నాయి ఇంకా జ్వరం వస్తుంది.,కళ్ళు మండుతున్నాయి ఇంకా జ్వరం వస్తుంది.,Eyes burning and fever.
+602,602,ఎన్ని years నుంచి?,ఎన్ని సంవత్సరాల నుంచి?,From how many years?
+603,603,8 years నుంచి.,8 సంవత్సరాల నుంచి.,From 8 years.
+604,604,control లోనే ఉందా?,కంట్రోల్ లోనే ఉందా?,Is it under control?
+605,605,swelling వస్తుంది ఇంకా గరుకు గరుకు గా ఉంటుంది.,వాపు వస్తుంది ఇంకా గరుకు గరుకు గా ఉంటుంది.,Swelling occurs and the crust remains rough.
+606,606,10 days అవుతున్నాయి.,10 రోజులు అవుతున్నాయి.,It's been 10 days.
+607,607,2 నెలల కింద మొదటి కన్నుకి operation అయింది.,2 నెలల కింద మొదటి కన్నుకి ఆపరేషన్ అయింది.,2 months later the first eye was operated.
+608,608,5 నుంచి 6 years అయితుంది.,5 నుంచి 6 సంవత్సరాలు అవుతుంది.,It will be 5 to 6 years.
+609,609,general checkup కి వచ్చాము,జనరల్ చెకప్  కి వచ్చాము.,We came for general checkup.
+610,610,కళ్ళలో dust పడింది.,కళ్ళలో దుమ్ము పడింది.,Dust fell in the eyes.
+611,611,driving చేస్తున్నప్పుడు కళ్ళు బాగా లాగుతున్నాయి.,డ్రైవింగ్ చేస్తున్నప్పుడు కళ్ళు బాగా లాగుతున్నాయి.,Eye strain while driving.
+612,612,computer ముందు కూర్చున్నప్పుడు eyes burning వస్తుంది.,కంప్యూటర్ ముందు కూర్చున్నప్పుడు కళ్ళు మండుతున్నాయి.,Eyes burning while sitting in front of the computer.
+613,613,ఒక 3 years అయింది.,ఒక 3 సంవత్సరాలు అయింది.,It's been 3 years.
+614,614,6 months నుంచి eye floaters వస్తున్నాయి.,6 నెలల నుంచి ఐ ఫ్లోటర్స్ వస్తున్నాయి.,Eye floaters are coming from 6 months.
+615,615,sun ని చూస్తే circles లాగా కనిపిస్తున్నాయి.,సూర్యుడిని ని చూస్తే వృత్తాలు లాగా కనిపిస్తున్నాయి.,"If you look at the sun, it looks like circles."
+616,616,ల్లని wall background ని చూసినప్పుడు సన్నని తీగలు అక్కడ అక్కడ చుక్కలు కనిపిస్తున్నాయి.,ల్లని గోడ నేపథ్యం ని చూసినప్పుడు సన్నని తీగలు అక్కడ చుక్కలు కనిపిస్తున్నాయి.,"When looking at the background of the llani wall, there are thin wires dotted there."
+617,617,కంట్లో floaters కనిపిస్తున్నాయి కంటి చివర మసక మసకగా కనిపిస్తుంది.,కంట్లో ఫ్లోటర్స్ కనిపిస్తున్నాయి కంటి చివర మసక మసకగా కనిపిస్తాయి.,Floaters are seen in the eye.
+618,618,sight పెరిగినట్లు అనిపిస్తుంది.,చూపు పెరిగినట్లు అనిపిస్తుంది.,The vision seems to be increased.
+619,619,ళ్ళు అప్పుడప్పుడూ dry అవుతున్నాయి.,ళ్ళు అప్పుడప్పుడూ ఎండుతున్నాయి.,The eyes are drying from time to time.
+620,620,కళ్ళు చాలా tired గా అనిపిస్తున్నాయి.,కళ్ళు చాలా అలసటగా అనిపిస్తున్నాయి.,Eyes feel very tired.
+621,621,irritation ఉంది.,చికాకు ఉంది.,There is irritation.
+622,622,last year వచ్చింది.,గత సంవత్సరం వచ్చింది.,Came last year.
+623,623,సాయంత్రం timeలో కళ్ళు ఎర్రగా అవుతున్నాయి.,సాయంత్రం వేళలో కళ్ళు ఎర్రగా అవుతున్నాయి.,Red eyes in the evening.
+624,624,కళ్ళు చుట్టూ color color కనిపిస్తుంది.,కళ్ళు చుట్టూ రంగు రంగు కనిపిస్తుంది.,Discoloration appears around the eyes.
+625,625,కంటి మధ్యలో central vision నల్లగా వస్తుంది.,కంటి మధ్యలో కేంద్ర దృష్టి నల్లగా వస్తుంది.,The central vision becomes black in the center of the eye.
+626,626,అమ్మాయికి right eye -6 ఉంది and left eye -8 ఉంది.,అమ్మాయికి కుడి కన్ను -6 ఉంది మరియు ఎడమ కన్ను -8 ఉంది.,The girl has right eye -6 and left eye -8.
+627,627,eye allergy ఉంది.,కంటి అలెర్జీ ఉంది.,There is an eye allergy.
+628,628,eyes red అవుతున్నాయి.,కళ్ళు ఎర్రబడుతున్నాయి.,Eyes are red.
+629,629,కంటిలో ఎర్రగా swell వస్తుంది.,కంటిలో ఎర్రగా వాపు వస్తుంది.,Red swelling in the eye.
+630,630,ఎడమ కంటి చుట్టూ ఏదో wires లాగా కనిపిస్తున్నాయి.,ఎడమ కంటి చుట్టూ ఏదో వైర్లు లాగా కనిపిస్తున్నాయి.,Something looks like wires around the left eye.
+631,631,eyes మండుతున్నాయి.,కళ్ళు మండుతున్నాయి.,Eyes burning.
+632,632,నా కంట్లో hole ఉందా ని తెలిసింది.,నా కంట్లో రంధ్రం ఉందా ని తెలిసింది.,I knew there was a hole in my eye.
+633,633,కళ్ళ కింద dark circles వస్తున్నాయి.,కళ్ళ కింద డార్క్ సర్కిల్స్ వస్తున్నాయి.,Dark circles appear under the eyes.
+634,634,మా పాప eyes బాగా blink చేస్తుంది,మా పాప కళ్ళు బాగా బ్లింక్ చేస్తుంది,Our baby blinks his eyes a lot
+635,635,కను రెప్పల పైన part ఉబ్బెత్తుగా ఉంది.,కను రెప్పల పైన భాగం ఉబ్బెత్తుగా ఉంది.,The part above the eyelids is bulging.
+636,636,eye lids పైన part ఉబ్బెత్తుగా ఉంది.,కంటి మూతలు పైన భాగం ఉబ్బెత్తుగా ఉంది.,The upper part of the eyelids is bulging.
+637,637,eye continuous shake అయితుంది.,కంటి నిరంతర షేక్ అయితుంది.,The eye shakes continuously.
+638,638,eyes బాగా shake అవుతున్నాయి.,కళ్ళు బాగా షేక్ అవుతున్నాయి.,Eyes are shaking well.
+639,639,accident జరిగినప్పుడు కంటికి దెబ్బ తగిలింది.,ప్రమాదం జరిగినప్పుడు కంటికి దెబ్బ తగిలింది.,"In the accident, the eye was injured."
+640,640,కంటి కింద eye bags లాగా వస్తున్నాయి.,కంటి కింద కంటి తిత్తులు లాగా వస్తున్నాయి.,It looks like eye cysts under the eyes.
+641,641,కళ్ళు dry గా ఉన్నాయి.,కళ్ళు పొడిగా ఉన్నాయి.,Eyes are dry.
+642,642,light dim అయితే ఏమీ సరిగ్గా కనిపించడం లేదు.,కాంతి మసక అయితే ఏమీ సరిగ్గా కనిపించడం లేదు.,The light is dim but nothing looks right.
+643,643,light ని చూస్తే కళ్ళు మండుతున్నాయి.,కాంతి ని చూస్తే కళ్ళు మండుతున్నాయి.,The eyes burn when they see the light.
+644,644,అంతా dull గా కనిపిస్తున్నాయి.,అంతా నిస్తేజంగా కనిపిస్తున్నాయి.,Everything looks dull.
+645,645,colors సరిగ్గా కనిపిస్త లేవు.,రంగులు సరిగ్గా కనిపించడం లేదు.,Colors don't look right.
+646,646,కంట్లో ఇంద్రధనస్సు లాగా colors కనిపిస్తున్నాయి.,కంట్లో ఇంద్రధనస్సు లాగా రంగులు కనిపిస్తున్నాయి.,Colors appear like a rainbow in the eye.
+647,647,కళ్ళు suddenగా మసక గా అవుతున్నాయి.,కళ్ళు ఒక్కసారిగా మసకగా అవుతున్నాయి.,The eyes suddenly become dim.
+648,648,ఒకసారే black గా అయిపోతుంది కంటి ముందు.,ఒకసారే నలుపు గా అయిపోతుంది కంటి ముందు.,Once it becomes black in front of the eye.
+649,649,blurred గా కనిపిస్తుంది.,అస్పష్టంగా కనిపిస్తుంది.,Looks vague.
+650,650,కళ్ళ ముందు dark spots వస్తున్నాయి.,కళ్ళ ముందు డార్క్ స్పాట్స్ వస్తున్నాయి.,Dark spots appear before the eyes.
+651,651,మూత్రంలో fruits వాసన వస్తుంది బాబుకు,మూత్రంలో పండ్లు వాసన వస్తుంది బాబుకు,Babu smells fruits in his urine
+652,652,kidney లో రాళ్ళు ఉన్నాయని scan లో చెప్పారు.,మూత్రపిండాలలో రాళ్ళు ఉన్నాయని స్కాన్ లో చెప్పారు.,A scan revealed kidney stones.
+653,653,ఇటు side కి నొప్పి వస్తుంది.,ఇటు వైపు కి నొప్పి వస్తుంది.,There is pain on this side.
+654,654,ఈరోజు morning మూత్రం పోసేటప్పుడు urine లో రక్తం పడింది.,ఈరోజు ఉదయం మూత్రం పోసేటప్పుడు మూత్రం లో రక్తం పడింది.,"This morning while urinating, there was blood in the urine."
+655,655,రోజు నేను 4 to 5 liters నీరు తాగుతున్నాను.,రోజు నేను 4 నుండి 5 లీటర్ల నీరు తాగుతున్నాను.,I drink 4 to 5 liters of water a day.
+656,656,చెప్పండమ్మా ఏమి ఇబ్బంది ఏం problem?,చెప్పండమ్మా ఏమి ఇబ్బంది ఏం సమస్య?,"Tell me, what's the problem, what's the problem?"
+657,657,urine yellow గా వస్తుంది.,మూత్రం పసుపు రంగులో వస్తుంది.,Urine is yellow in color.
+658,658,4 years కింద urineలో infection వచ్చింది.,4 సంవత్సరాల కింద మూత్రంలో ఇన్ఫెక్షన్ వచ్చింది.,Urinary tract infection after 4 years.
+659,659,నాకు 24 గంటలు urine track లో మంటగా ఉండేది,నాకు 24 గంటల మూత్ర నాళం మంటగా ఉంది,I have a 24 hour urinary tract infection
+660,660,medicine వాడాక చాలా వరకూ తగ్గింది.,మందు వాడాక చాలా వరకు తగ్గింది.,"After using the medicine, it has decreased a lot."
+661,661,sugar test చేయించుకున్నాను.,షుగర్ టెస్ట్ చేయించుకున్నాను.,I did a sugar test.
+662,662,depression ఉంది.,డిప్రెషన్ ఉంది.,There is depression.
+663,663,"వరం వస్తుంది regular గా, 102 103 పైన fever వస్తుంది.","వరం వస్తుంది రెగ్యులర్ గా, 102 103 పైన జ్వరం వస్తుంది.","Boon comes regularly, fever above 102 103."
+664,664,బాగా shivering ఉంది.,బాగా వణుకు ఉంది.,Very shaky.
+665,665,"ఒక రెండు రోజుల నుంచి vomitis, motions కూడా అయితున్నాయి .","ఒక రెండు రోజుల నుంచి వాంతులు, విరోచనాలు కూడా అయితున్నాయి .",Vomiting and diarrhea have been happening for a couple of days.
+666,666,ఇంకా body pains కూడా ఉన్నాయి .,ఇంకా శరీర నొప్పులు కూడా ఉన్నాయి .,There are also body pains.
+667,667,జ్వరం వచ్చి 3 days అయింది.,జ్వరం వచ్చి 3 రోజులు అయింది.,It has been 3 days since the fever.
+668,668,అసలు ఎం సరిగా తినదు hostelలో .,అసలు ఎం సరిగా తినడు హాస్టల్ లో .,"Actually, M does not eat properly in the hostel."
+669,669,ఎంత బాబు age?,ఎంత బాబు వయసు?,How old is Babu?
+670,670,double vision ఉంది.,డబుల్ దృష్టి ఉంది.,There is double vision.
+671,671,cold cough అలాంటివి ఏమైనా ఉన్నాయా ?,జలుబు దగ్గు అలాంటివి ఏమైనా ఉన్నాయా ?,Are there any such things as cold and cough?
+672,672,నాకు diabetes ఇంకా bp ఉంది .,నాకు మధుమేహం ఇంకా bp ఉంది .,I have diabetes and bp.
+673,673,ayurvedic medicine కూడా use చేసాం,ఆయుర్వేద మందు కూడా వాడారు.,Ayurvedic medicine is also used.
+674,674,ఎం medicines use చేసినా తగ్గడం లేదు,ఎం మందులు వాడినా తగ్గడం లేదు,M is not reducing even after using medicines
+675,675,ఎపుడు winterలో ఇలానే అయితది .,ఎపుడు చలికాలంలో ఇలానే అయితది .,Sometimes it is like this in winter.
+676,676,మీరు dentist ని కలవాలి.,మీరు దంతవైద్యుడు ని కలవాలి.,You should see a dentist.
+677,677,accident case ఆ?,ప్రమాదం కేసు ఆ?,Is that a case of accident?
+678,678,గాలి సరిగా breathing రావడంలేదు .,గాలి సరిగా శ్వాస రావడంలేదు .,Air is not breathing properly.
+679,679,ఇంకా చేతి గోర్లు కూడా blue colorలో మారుతున్నాయి .,ఇంకా చేతి గోర్లు కూడా నీలం రంగులో మారుతున్నాయి .,Also fingernails are turning blue.
+680,680,concentration ఉండట్లేదు.,ఏకాగ్రత ఉండట్లేదు.,No concentration.
+681,681,ఛాతిలో burning sensation అనిపిస్తుంది .,ఛాతిలో బర్నింగ్ సెన్సేషన్ అనిపిస్తుంది .,Burning sensation is felt in the chest.
+682,682,గాలి పీల్చుకోవడం కష్టంగా ఉంది chest pain వలన .,గాలి పీల్చుకోవడం కష్టంగా ఉంది ఛాతీ నొప్పి వలన .,Breathing is difficult due to chest pain.
+683,683,oily foods తిన్నాపుడే ఆలా అయితుంది .,నూనె ఆహారాలు తిన్నాపుడే ఆలా అయితుంది .,It happens when you eat oily foods.
+684,684,అప్పుడపుడు blood పడుతుంది .,అప్పుడపుడు రక్తం పడుతుంది .,Sometimes blood is taken.
+685,685,weakగా ఉంది .,బలహీనంగా ఉంది .,is weak.
+686,686,weight loss ఉంది.,బరువు తగ్గడం ఉంది.,There is weight loss.
+687,687,సరే మీరు Gynaecologist ను కలవండి .,సరే మీరు గైనకాలజిస్ట్ ను కలవండి .,Well you see a gynecologist.
+688,688,పుట్టుమచ్చ color మారింది .,పుట్టుమచ్చ రంగు మారింది .,The mole has changed color.
+689,689,"ఇంకో problem, ఇంకో opinion sir, faty liver అనేసి చెప్పారు sir నాకు.","ఇంకో సమస్య, ఇంకో అభిప్రాయం సార్, ఫ్యాటీ లివర్ అని చెప్పారు సార్ నాకు.","One more problem, one more opinion sir, they told me it was fatty liver."
+690,690,ఎటువంటిది మీ profession?,ఎటువంటిది మీ వృత్తి?,What is your occupation?
+691,691,నేను technical sir department.,నేను టెక్నికల్  డిపార్ట్‌మెంట్ సార్.,I am technical department sir.
+692,692,నేను english medicines ఏ వాడుతున్నాను.,నేను ఆంగ్ల మందులు ఏ వాడుతున్నాను.,What am I using English medicines.
+693,693,main problem నాకు gastric.,ప్రధాన సమస్య నాకు గ్యాస్ట్రిక్. ,The main problem for me is gastric.
+694,694,అంటే ఏమైనా తిందామన్నా chicken తిందామన్నా ఏం తిందామన్నా భయమే,అంటే ఏమైనా తిందామన్నా చికెన్ తిందామన్నా ఏం తిందామన్నా భయమే,"That is, whether you eat anything, whether you eat chicken or whatever, you are afraid"
+695,695,కాయగూరలు తిన్న problem లేదు.,కాయగూరలు తిన్న సమస్య లేదు.,Eating vegetables is not a problem.
+696,696,chicken తిందామంటే మాత్రం చాలా problemగా ఉంటది.,చికెన్ తిందామంటే మాత్రం చాలా సమస్యగా ఉంటుంది.,Eating chicken is a big problem.
+697,697,madam నేను ఒక 4 5 years నుంచి నాకు ఈ faty liver అని వచ్చింది madam.,మేడమ్ నేను ఒక 4 5 సంవత్సరాల నుండి నాకు ఈ కొవ్వు కాలేయం అని వచ్చింది మేడం.,Madam I got this fatty liver from a 4 5 year old Madam.
+698,698,అయితే SVN hospital లో అక్కడ చూపించినం amount ఎక్కువ అయితున్నాయాని.,అయితే SVN హాస్పిటల్ లో అక్కడ చూపించిన మొత్తం ఎక్కువ అయితున్నాయని.,But the amount shown in SVN Hospital is more.
+699,699,ఆ faty liver అంటే బాగా vomitings అయితున్నాయి madam,ఆ fకొవ్వు కాలేయం అంటే బాగా వాంతులు అవుతున్నాయి మేడమ్,That f fatty liver means vomiting a lot madam
+700,700,అప్పుడు మధ్యల drinks వల్ల వచ్చింది అని చెప్పింది చెప్పినారు.,అప్పుడు మధ్యల డ్రింక్స్ వల్ల వచ్చింది అని చెప్పింది.,Then Madhyala said it was because of the drinks.
+701,701,left side బాగా ఉబ్బింది.,ఎడమ వైపు బాగా ఉబ్బింది.,The left side is very swollen.
+702,702,right side ఎమో normal ఉంది,కుడి వైపు ఎమో సాధారణంగా ఉంది,Emo on the right is common
+703,703,నేను pan shop నడిపిస్తుంటి madam.,నేను పాన్ షాప్ నడిపిస్తుంటి మేడమ్.,I am a pawn shop running lady.
+704,704,మీరు చెప్పిన symptoms అనేది ఏంటంటే faty liver అనేది aggrevation stage లో ఉంది .,మీరు చెప్పిన లక్షణాలు ఏంటంటే కొవ్వు కాలేయం అనేది తీవ్రతరం చేసే దశలో ఉంది .,The symptoms you mentioned are that the fatty liver is in an aggravating stage.
+705,705,"అంటే మనం మీరు already చెప్తున్నారు, ఎక్కువగా alcohol తీసుకునే వారిని.","అంటే మనం మీరు ఇప్పటికే చెప్తున్నారు, ఎక్కువగా మద్యం తీసుకునే వారిని.","That means we are already saying, those who drink a lot of alcohol."
+706,706,timeకి food తినకపోవడం వలన మనకు ఈ faty liver increase అయితూ ఉంటది.,సమయానికి ఆహరం తినకపోవడం వలన మనకు ఈ కొవ్వు కాలేయం పెరుగుతుంది.,"If we don't eat food on time, we develop this fatty liver."
+707,707,కాకపోతే ఏంటంటే ఎటువంటి treatment తీసుకోకపోతే దాన్ని neglect చేస్తే అది చాలా dangerous stageకి వెళ్ళే chance ఉంటది.,కాకపోతే ఏంటంటే ఎటువంటి చికిత్స తీసుకోకపోతే దాన్ని నిర్లక్ష్యం చేస్తే అది చాలా ప్రమాదకరమైన స్టేజికి వెళ్ళే అవకాశం ఉంటుంది.,"Otherwise, if no treatment is taken, it can progress to a very dangerous stage if neglected."
+708,708,అంటే liver కాకుండా whole organs మీద effect పడుతది దాని ప్రభావం అనేది.,అంటే కాలేయం కాకుండా మొత్తం అవయవాలు మీద ప్రభావం పడుతది దాని ప్రభావం అనేది.,It means that it affects all the organs other than the liver.
+709,709,"ఆ bones వరకు ఇట్ల bulb గల ఉబ్బినట్లు, ఉబ్బింది, sir.","ఆ ఎముకల వరకు ఇట్ల బల్బ్ గల ఉబ్బినట్లు, ఉబ్బింది, సార్.","Swollen, bloated, sir, like a bulbous house to the bone."
+710,710,ఇట్ల tightగా ఉంటది.,ఇట్ల గట్టిగా ఉంటది.,It's so tight.
+711,711,మీరు చెప్పిన problems అన్నీ అయినప్పుడు అట్లానే ఉన్నాయి sir.,మీరు చెప్పిన సమస్యలు అన్నీ అయినప్పుడు అట్లానే ఉన్నాను సార్.,"Sir, I am the same when all the problems you have mentioned."
+712,712,"ఇలా urineలో color రావడం, నాకు acidity కూడా అయితుంది .","ఇలా మూత్రంలో రంగు రావడం, నాకు ఆమ్లత్వం కూడా అయితుంది .",This color in the urine also makes me acidic.
+713,713,మనకి faty liver అంటే Venkateshగారు మనకి అది ఎప్పుడన్నా directగా రాదన్నమాట మనకి.,మనకి కొవ్వు కాలేయం అంటే వెంకటేష్‌గారు మనకి అది ఎప్పుడన్నా డైరెక్ట్‌గా రాదన్నమాట మనకి.,Fatty liver is what Venkatesh says that it never comes directly to us.
+714,714,లేదంటే physicalగా మనకి exercise అనేది లేకపోవడం గానీ.,లేదంటే శారీరకంగా మనకి వ్యాయామం లేకపోవడం లేదా.,Or we lack physical exercise.
+715,715,లేదంటే బయట food ఎక్కువగా తీసుకోవడం వల్ల.,లేదంటే బయట ఆహారం ఎక్కువగా తీసుకోవడం వల్ల.,Or because of eating out too much.
+716,716,అది కాకపోతే piles కింద అదే morning motion వెళ్ళినప్పుడు కాస్త blood కింద వెళ్ళి వెళ్తుంది sir.,అది కాకపోతే పైల్స్ కింద అదే మార్నింగ్ మోషన్ వెళ్ళినప్పుడు కాస్త రక్తం కింద వెళ్తుంది సార్.,"If not, when the same morning motion goes under the piles, some blood will go under the piles, sir."
+717,717,present ఏమైనా medicines వాడుతున్నారా?,ప్రస్తుతం ఏమైనా మందులు వాడుతున్నారా?,Are you currently using any medications?
+718,718,అంటే ఇక్కడ doctorగారు దెగ్గర medicines వాడుతున్నాము sir.,అంటే ఇక్కడ వైద్యుడుగారు దెగ్గర మందులు వాడుతున్నాము సార్.,"That means the doctor is using many medicines here, sir."
+719,719,నాకు operation అంటే భయం sir,నాకు ఆపరేషన్ అంటే భయం సార్,I am afraid of operation sir
+720,720,almost 2 years పై నుంచి ఇబ్బంది ఉంటుంది.,దాదాపు 2 సంవత్సరాలు పై నుంచి ఇబ్బంది ఉంటుంది.,There will be trouble from above for about 2 years.
+721,721,ఒక్కటే నండీ operation లేకుండా అవుతుంది అంటే ఏ stageలో ఉంది ఏ gradeలో ఉంది అవసరం.,ఒక్కటే నండీ ఆపరేషన్ లేకుండా అవుతుంది అంటే ఏ దశలో ఉంది ఏ గ్రేడ్‌లో ఉంది.,Only Nandi will be without operation i.e. which stage is in which grade.
+722,722,ఈ 10 years నుంచి బాగా ఈ piles problemతో ఇబ్బంది పడుతున్నాను అండి.,ఈ 10 సంవత్సరాల నుంచి బాగా ఈ పైల్స్ సమస్యతో ఇబ్బంది పడుతున్నాను.,I have been suffering from this problem of piles since 10 years.
+723,723,బాగా constipation వస్తుంది.,బాగా మలబద్ధకం వస్తుంది.,Very constipated.
+724,724,ఏమైనా laxatives వాడితేనే motions అయితుంది కానీ అవ్వట్లేదు అండి.,ఏమైనా భేదిమందులు వాడితేనే విరోచనాలు అయితుంది కానీ అవ్వట్లేదు అండి.,"If you use any laxatives, you will have diarrhea, but it won't happen."
+725,725,ఇది వరకు ఎవరైనా doctor ని కలిసారా?,ఇది వరకు ఎవరైనా వైద్యుడు ని కలిసారా?,Has anyone seen a doctor so far?
+726,726,operation చేయించుకుందామంటే body weight 100 పైన ఉంది .,ఆపరేషన్ చేయించుకుందామంటే శరీర బరువు 100 పైన ఉంది .,The body weight is above 100 to undergo the operation.
+727,727,ఒక 6 months నుంచి ఉంది.,ఒక 6 నెలల నుంచి ఉంది.,One is from 6 months.
+728,728,ఇది external layerలో ఉంది నాకు.,ఇది బాహ్య పొరలో ఉంది నాకు.,It's on the outer layer for me.
+729,729,so centinel pile లో ఆ లక్షణం కనపడుతుంది.,కాబట్టి సెంటినెల్ పైల్స్ లో ఆ లక్షణం కనపడుతుంది.,So that characteristic is seen in sentinel piles.
+730,730,"water బాగా తీసుకో, fruits అలవాటు చేస్కో, నిద్ర correctగా ఉంచుకో, diet management చేస్కో పూర్తిగా తగ్గుతుంది.","నీళ్ళు బాగా తీసుకో, పండ్లు అలవాటు చేస్కో, నిద్ర సరిగా ఉంచుకో, ఆహార నిర్వహణ చేస్కో పూర్తిగా తగ్గుతుంది.","Drink water well, eat fruits, sleep properly and manage your diet to reduce it completely."
+731,731,మరేమన్నా testలు చేయించారా sir?,మరేమన్నా పరీక్షలు చేయించారా సార్?,Have you done any other tests sir?
+732,732,అసల్ neglect చేయొద్దు ఈ problem ని .,అసల్ నిర్లక్ష్యం చేయొద్దు ఈ సమస్య ని .,Do not ignore this problem.
+733,733,ఇప్పటికి 4 times surgery అయింది అండి నాకు.,ఇప్పటికి 4 సార్లు సర్జరీ అయింది అండి నాకు.,I have had 4 surgeries so far.
+734,734,ఇప్పుడు  మంచి hospitalలో surgery అయింది.,ఇప్పుడు మంచి ఆసుపత్రిలో శస్త్రచికిత్స అయింది.,Now the surgery was done in a good hospital.
+735,735,దెగ్గరలో ఉన్న homeopathic branch ని consult అవ్వండి.,దెగ్గరలో ఉన్న హోమియోపతిక్ బ్రాంచ్ ని కన్సల్ట్ అవ్వండి.,Consult the nearest homeopathic branch.
+736,736,మీరు మళ్ళ surgeryకి వెళ్ళకండీ.,మీరు మళ్ళ సర్జరీకి వెళ్ళకండి.,You don't go for surgery again.
+737,737,ఊరికే surgery చేయడం వల్ల కూడా ఆ track open అయిపోతుంది.,ఊరికే సర్జరీ చేయడం వల్ల కూడా ఆ ట్రాక్ తెరుచుకుంది అయిపోతుంది.,"Just by doing the surgery, the track will be opened."
+738,738,but at a time bleeding అవుతుంది.,కానీ ఒక సమయంలో రక్తస్రావం అవుతుంది.,But at some point it bleeds.
+739,739,ఈ 3 లక్షణాలు gastric లక్షణాలలో ఉన్నాయి.,ఈ 3 లక్షణాలు గ్యాస్ట్రిక్ లక్షణాలలో ఉన్నాయి.,These 3 symptoms are among the gastric symptoms.
+740,740,నేను gastric నుండి చాలా trouble చేస్తున్నాను అండి.,నేను గ్యాస్ట్రిక్ నుండి చాలా ఇబ్బంది పడుతున్నాను.,I am suffering a lot from gastric.
+741,741,voice clearగా లేదు.,గొంతు స్పష్టంగా లేదు.,The voice is not clear.
+742,742,ఇలాంటి problems ఉన్నాయండి.,ఇలాంటి సమస్యలు ఉన్నాయండీ.,There are similar problems.
+743,743,ఉదయం పూట liver damage కావొద్దు అంటే నువ్వు కచ్చితంగా tiffin చేయాలి.,ఉదయం పూట కాలేయ నష్టం కావొద్దు అంటే నువ్వు కచ్చితంగా టిఫిన్ చేయాలి.,You should definitely have tiffin in the morning to avoid liver damage.
+744,744,tiffin అంటే ఏదైనా సరే limited food కచ్చితంగా తీసుకోవాలి.,టిఫిన్ అంటే ఏదైనా సరే పరిమిత ఆహారం కచ్చితంగా తీసుకోవాలి.,Tiffin is a limited diet of anything.
+745,745,లేచిన తర్వాత ఆ fasting ని break చేయడమే breakfast కబట్టి కచ్చితంగా ఉదయం పూట నువ్వు tiffin తీసుకోవాలి.,లేచిన తర్వాత ఆ ఉపవాసం బ్రేక్ చేయడమే బ్రేక్‌ఫాస్ట్ కబట్టి కచ్చితంగా ఉదయం పూట నువ్వు టిఫిన్ తీసుకోవాలి.,"Breakfast is to break the fast after waking up, so you should definitely take tiffin in the morning."
+746,746,ఒక 1 year అయితుంది sir.,ఒక 1 సంవత్సరం అయితుంది సార్.,It's been 1 year sir.
+747,747,right అమ్మా ఏమైనా endoscopy పరిక్ష చేయించావా?,అవును అమ్మ ఏమైనా ఎండోస్కోపీ పరీక్ష చేయించావా?,Yes mom did you have any endoscopy test?
+748,748,అలా ఒక 1 hour దాక అనిపిస్తది అండి.,అలా ఒక 1 గంట దాక అనిపిస్తది అండి.,It seems like about 1 hour.
+749,749,తరువాత stomach మొత్తం మంట ఆ typeలో వస్తుందండీ.,తరువాత కడుపు మొత్తం మంట ఆ రకంలో వస్తుందండీ.,Then the entire stomach is inflamed.
+750,750,gastric సమస్య కూడా ఎక్కువగా ఉంటుంది spicy food ఎక్కువగా తిన్నప్పుడు,స్పైసి ఫుడ్ ఎక్కువగా తిన్నప్పుడు గ్యాస్ట్రిక్ సమస్య కూడా ఎక్కువగా ఉంటుంది,Eating too much spicy food can also cause gastric problems
+751,751,దీనికి breath test అని ఉంటుంది.,దీనికి శ్వాస పరీక్ష అని ఉంటుంది.,This is called a breath test.
+752,752,అందులో ఈ పేగుల్లో ఏమైనా infection ఉందా అనేటటువంటిది తెలుసుకునేటటువంటి పరిక్ష,అందులో ఈ పేగుల్లో ఏమైనా ఇన్ఫెక్షన్ ఉందా అనేటటువంటిది తెలుసుకునేటటువంటి పరిక్ష,It is a test to find out if there is any infection in these intestines
